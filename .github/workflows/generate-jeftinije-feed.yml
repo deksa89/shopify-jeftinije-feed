@@ -1,0 +1,59 @@
+name: Generate Jeftinije XML Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 03:17 UTC
+    # Croatia: 04:17 winter time / 05:17 summer time
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jeftinije-xml-feed
+  cancel-in-progress: false
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate XML feed
+        env:
+          SHOPIFY_STORE: ${{ vars.SHOPIFY_STORE }}
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+          SHOPIFY_API_VERSION: "2026-04"
+          OUTPUT_PATH: "docs/jeftinije.xml"
+          MIN_QUANTITY: "3"
+          DEFAULT_CATEGORY: "Erotska pomagala"
+          DEFAULT_CURRENCY: "EUR"
+          DEFAULT_STOCK: "in stock"
+          DELIVERY_COST: "6.90"
+          DELIVERY_TIME_MIN: "4"
+          DELIVERY_TIME_MAX: "8"
+          REQUIRE_EAN: "false"
+        run: python scripts/generate_jeftinije_feed.py
+
+      - name: Commit updated XML feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add docs/jeftinije.xml
+
+          if git diff --cached --quiet; then
+            echo "No XML feed changes to commit."
+          else
+            git commit -m "Update Jeftinije XML feed"
+            git push
+          fi
