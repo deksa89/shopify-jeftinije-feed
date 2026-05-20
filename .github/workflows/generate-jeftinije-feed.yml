@@ -1,4 +1,4 @@
-name: Generate Jeftinije XML Feed
+name: Generate Jeftinije XML Feeds
 
 on:
   workflow_dispatch:
@@ -15,9 +15,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  generate-feed:
+  generate-feeds:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -28,13 +28,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate XML feed
+      - name: Generate English XML feed
         env:
           SHOPIFY_STORE: ${{ vars.SHOPIFY_STORE }}
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
           SHOPIFY_API_VERSION: "2026-04"
           PUBLIC_STORE_DOMAIN: "www.luvmechanics.com"
-          OUTPUT_PATH: "docs/jeftinije.xml"
+          OUTPUT_PATH: "docs/jeftinije-en.xml"
+          FEED_LOCALE: ""
           MIN_QUANTITY: "3"
           DEFAULT_CATEGORY: "Erotska pomagala"
           DEFAULT_CURRENCY: "EUR"
@@ -45,16 +46,34 @@ jobs:
           REQUIRE_EAN: "false"
         run: python scripts/generate_jeftinije_feed.py
 
-      - name: Commit updated XML feed
+      - name: Generate Croatian XML feed
+        env:
+          SHOPIFY_STORE: ${{ vars.SHOPIFY_STORE }}
+          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
+          SHOPIFY_API_VERSION: "2026-04"
+          PUBLIC_STORE_DOMAIN: "www.luvmechanics.com"
+          OUTPUT_PATH: "docs/jeftinije-hr.xml"
+          FEED_LOCALE: "hr"
+          MIN_QUANTITY: "3"
+          DEFAULT_CATEGORY: "Erotska pomagala"
+          DEFAULT_CURRENCY: "EUR"
+          DEFAULT_STOCK: "preorder"
+          DELIVERY_COST: "6.90"
+          DELIVERY_TIME_MIN: "4"
+          DELIVERY_TIME_MAX: "8"
+          REQUIRE_EAN: "false"
+        run: python scripts/generate_jeftinije_feed.py
+
+      - name: Commit updated XML feeds
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add docs/jeftinije.xml
+          git add docs/jeftinije-en.xml docs/jeftinije-hr.xml
 
           if git diff --cached --quiet; then
             echo "No XML feed changes to commit."
           else
-            git commit -m "Update Jeftinije XML feed"
+            git commit -m "Update Jeftinije XML feeds"
             git push
           fi
