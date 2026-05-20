@@ -19,13 +19,20 @@ PUBLIC_STORE_DOMAIN = os.getenv("PUBLIC_STORE_DOMAIN", "www.luvmechanics.com")
 
 OUTPUT_PATH = Path(os.getenv("OUTPUT_PATH", "docs/jeftinije.xml"))
 
+# Empty = default Shopify language.
+# Example:
+# FEED_LOCALE=""   -> English/default feed
+# FEED_LOCALE="hr" -> Croatian translated feed
+FEED_LOCALE = os.getenv("FEED_LOCALE", "").strip()
+
 MIN_QUANTITY = int(os.getenv("MIN_QUANTITY", "3"))
 DEFAULT_CATEGORY = os.getenv("DEFAULT_CATEGORY", "Erotska pomagala")
 DEFAULT_CURRENCY = os.getenv("DEFAULT_CURRENCY", "EUR")
 
 # Jeftinije.hr supports: in stock, preorder, out of stock.
-# If you dispatch within 1 day, use "in stock".
-# If delivery/dispatch is usually 2-10 working days, "preorder" is closer to their definition.
+# According to their spec:
+# - "in stock" means product is dispatched no later than 1 day after order
+# - "preorder" means dispatched within 2-10 working days
 DEFAULT_STOCK = os.getenv("DEFAULT_STOCK", "preorder")
 
 DELIVERY_COST = os.getenv("DELIVERY_COST", "6.90")
@@ -81,6 +88,20 @@ query ProductVariants($cursor: String) {
           }
         }
       }
+    }
+  }
+}
+"""
+
+
+TRANSLATABLE_RESOURCE_QUERY = """
+query TranslatableResource($resourceId: ID!, $locale: String!) {
+  translatableResource(resourceId: $resourceId) {
+    resourceId
+    translations(locale: $locale) {
+      key
+      value
+      outdated
     }
   }
 }
@@ -161,6 +182,86 @@ def fetch_variants() -> List[Dict[str, Any]]:
     return variants
 
 
+def fetch_translations(resource_id: str, locale: str) -> Dict[str, str]:
+    if not locale:
+        return {}
+
+    data = shopify_graphql(
+        TRANSLATABLE_RESOURCE_QUERY,
+        {
+            "resourceId": resource_id,
+            "locale": locale,
+        },
+    )
+
+    resource = data.get("translatableResource") or {}
+    translations = resource.get("translations") or []
+
+    translated_values: Dict[str, str] = {}
+
+    for translation in translations:
+        key = translation.get("key")
+        value = translation.get("value")
+
+        # We use the value if it exists. Even if "outdated" is true,
+        # it is usually still better than falling back to English.
+        if key and value:
+            translated_values[key] = value
+
+    return translated_values
+
+
+def attach_translations(variants: List[Dict[str, Any]], locale: str) -> None:
+    if not locale:
+        print("FEED_LOCALE is empty; using default Shopify language.")
+        return
+
+    product_ids = sorted(
+        {
+            variant["product"]["id"]
+            for variant in variants
+            if variant.get("product") and variant["product"].get("id")
+        }
+    )
+
+    variant_ids = sorted(
+        {
+            variant["id"]
+            for variant in variants
+            if variant.get("id")
+        }
+    )
+
+    print(f"Fetching translations for locale: {locale}")
+    print(f"Products to translate: {len(product_ids)}")
+    print(f"Variants to translate: {len(variant_ids)}")
+
+    product_translations: Dict[str, Dict[str, str]] = {}
+    variant_translations: Dict[str, Dict[str, str]] = {}
+
+    for index, product_id in enumerate(product_ids, start=1):
+        product_translations[product_id] = fetch_translations(product_id, locale)
+
+        if index % 25 == 0:
+            print(f"Fetched product translations: {index}/{len(product_ids)}")
+
+        time.sleep(0.15)
+
+    for index, variant_id in enumerate(variant_ids, start=1):
+        variant_translations[variant_id] = fetch_translations(variant_id, locale)
+
+        if index % 25 == 0:
+            print(f"Fetched variant translations: {index}/{len(variant_ids)}")
+
+        time.sleep(0.15)
+
+    for variant in variants:
+        product = variant.get("product") or {}
+
+        product["_translations"] = product_translations.get(product.get("id"), {})
+        variant["_translations"] = variant_translations.get(variant.get("id"), {})
+
+
 def numeric_id(gid: str) -> str:
     return gid.rsplit("/", 1)[-1]
 
@@ -199,8 +300,18 @@ def clean_html_description(value: Optional[str], fallback_text: Optional[str] = 
     description = str(value)
 
     # Remove risky/unnecessary tags if any app injected them.
-    description = re.sub(r"<script\b[^<]*(?:(?!</script>)<[^<]*)*</script>", "", description, flags=re.I)
-    description = re.sub(r"<style\b[^<]*(?:(?!</style>)<[^<]*)*</style>", "", description, flags=re.I)
+    description = re.sub(
+        r"<script\b[^<]*(?:(?!</script>)<[^<]*)*</script>",
+        "",
+        description,
+        flags=re.I,
+    )
+    description = re.sub(
+        r"<style\b[^<]*(?:(?!</style>)<[^<]*)*</style>",
+        "",
+        description,
+        flags=re.I,
+    )
 
     # Remove inline style attributes because spec says HTML without formatting.
     description = re.sub(r'\sstyle="[^"]*"', "", description, flags=re.I)
@@ -209,6 +320,53 @@ def clean_html_description(value: Optional[str], fallback_text: Optional[str] = 
     description = description.strip()
 
     return description
+
+
+def resource_translation(resource: Dict[str, Any], key: str) -> str:
+    translations = resource.get("_translations") or {}
+    return translations.get(key) or ""
+
+
+def translated_product_title(product: Dict[str, Any]) -> str:
+    return resource_translation(product, "title") or collapse_whitespace(product.get("title"))
+
+
+def translated_product_description_html(product: Dict[str, Any]) -> str:
+    return resource_translation(product, "body_html") or product.get("descriptionHtml") or ""
+
+
+def translated_product_description_text(product: Dict[str, Any]) -> str:
+    return resource_translation(product, "body") or product.get("description") or ""
+
+
+def translated_product_handle(product: Dict[str, Any]) -> str:
+    return resource_translation(product, "handle") or collapse_whitespace(product.get("handle"))
+
+
+def translated_variant_title(variant: Dict[str, Any]) -> str:
+    return resource_translation(variant, "title") or collapse_whitespace(variant.get("title"))
+
+
+def translated_option_value(variant: Dict[str, Any], option_name: str, original_value: str) -> str:
+    """
+    Shopify can expose variant title translations, but selected option translations
+    may not always be returned as simple keys. This keeps the original value as fallback.
+    """
+    translations = variant.get("_translations") or {}
+
+    possible_keys = [
+        option_name,
+        option_name.lower(),
+        f"option_{option_name}",
+        f"option_{option_name.lower()}",
+        original_value,
+    ]
+
+    for key in possible_keys:
+        if key in translations and translations[key]:
+            return translations[key]
+
+    return original_value
 
 
 def limit_text(value: str, max_length: int) -> str:
@@ -236,7 +394,8 @@ def is_valid_ean13(digits: str) -> bool:
     if not re.fullmatch(r"\d{13}", digits):
         return False
 
-    # Exclude restricted GS1 ranges mentioned in the Jeftinije.hr spec.
+    # Exclude restricted GS1 ranges mentioned in the Jeftinije.hr spec:
+    # 02, 04, 2 and coupon ranges 98-99.
     if digits.startswith(("02", "04", "2", "98", "99")):
         return False
 
@@ -264,13 +423,18 @@ def normalize_ean(value: Optional[str]) -> str:
 
 
 def product_url(product: Dict[str, Any], variant_id: str) -> str:
+    translated_handle = translated_product_handle(product)
+
+    if FEED_LOCALE and translated_handle:
+        return f"https://{PUBLIC_STORE_DOMAIN}/{FEED_LOCALE}/products/{translated_handle}?variant={variant_id}"
+
     online_url = product.get("onlineStoreUrl")
 
     if online_url:
         separator = "&" if "?" in online_url else "?"
         return f"{online_url}{separator}variant={variant_id}"
 
-    handle = product.get("handle")
+    handle = translated_handle or product.get("handle")
 
     if handle:
         return f"https://{PUBLIC_STORE_DOMAIN}/products/{handle}?variant={variant_id}"
@@ -325,10 +489,11 @@ def selected_options_map(variant: Dict[str, Any]) -> Dict[str, str]:
 
     for option in variant.get("selectedOptions") or []:
         name = collapse_whitespace(option.get("name")).lower()
-        value = collapse_whitespace(option.get("value"))
+        original_value = collapse_whitespace(option.get("value"))
+        translated_value = translated_option_value(variant, name, original_value)
 
-        if name and value:
-            options[name] = value
+        if name and translated_value:
+            options[name] = translated_value
 
     return options
 
@@ -339,6 +504,31 @@ def variant_color(variant: Dict[str, Any]) -> str:
     for key in ("color", "colour", "boja"):
         if key in options:
             return limit_text(options[key], 40)
+
+    # Fallback: try to infer color from variant title after dash/name.
+    title = collapse_whitespace(translated_variant_title(variant))
+    known_colors = {
+        "black": "crna",
+        "white": "bijela",
+        "red": "crvena",
+        "blue": "plava",
+        "purple": "ljubičasta",
+        "pink": "ružičasta",
+        "gray": "siva",
+        "grey": "siva",
+        "green": "zelena",
+        "orange": "narančasta",
+        "teal": "tirkizna",
+        "turquoise": "tirkizna",
+        "fuchsia": "fuksija",
+        "indigo": "indigo",
+    }
+
+    lower_title = title.lower()
+
+    for english, croatian in known_colors.items():
+        if english in lower_title:
+            return croatian if FEED_LOCALE == "hr" else english
 
     return ""
 
@@ -356,8 +546,8 @@ def variant_size(variant: Dict[str, Any]) -> str:
 def variant_name(variant: Dict[str, Any]) -> str:
     product = variant.get("product") or {}
 
-    product_title = limit_text(collapse_whitespace(product.get("title")), 170)
-    variant_title = collapse_whitespace(variant.get("title"))
+    product_title = limit_text(collapse_whitespace(translated_product_title(product)), 170)
+    variant_title = collapse_whitespace(translated_variant_title(variant))
 
     if variant_title and variant_title.lower() != "default title":
         return limit_text(f"{product_title}-{variant_title}", 200)
@@ -366,7 +556,7 @@ def variant_name(variant: Dict[str, Any]) -> str:
 
 
 def has_variant_title(variant: Dict[str, Any]) -> bool:
-    title = collapse_whitespace(variant.get("title"))
+    title = collapse_whitespace(translated_variant_title(variant))
     return bool(title and title.lower() != "default title")
 
 
@@ -488,8 +678,8 @@ def build_item_xml(variant: Dict[str, Any]) -> str:
     brand = limit_text(collapse_whitespace(product.get("vendor")), 50)
 
     description = clean_html_description(
-        product.get("descriptionHtml"),
-        fallback_text=product.get("description"),
+        translated_product_description_html(product),
+        fallback_text=translated_product_description_text(product),
     )
 
     group_id = product_id if has_variant_title(variant) else ""
@@ -576,6 +766,8 @@ def main() -> int:
 
     variants = fetch_variants()
     print(f"Fetched variants: {len(variants)}")
+
+    attach_translations(variants, FEED_LOCALE)
 
     xml_content = build_xml(variants)
     write_xml(xml_content, OUTPUT_PATH)
