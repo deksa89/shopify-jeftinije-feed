@@ -33,11 +33,12 @@ jobs:
           SHOPIFY_STORE: ${{ vars.SHOPIFY_STORE }}
           SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
           SHOPIFY_API_VERSION: "2026-04"
+          PUBLIC_STORE_DOMAIN: "www.luvmechanics.com"
           OUTPUT_PATH: "docs/jeftinije.xml"
           MIN_QUANTITY: "3"
           DEFAULT_CATEGORY: "Erotska pomagala"
           DEFAULT_CURRENCY: "EUR"
-          DEFAULT_STOCK: "in stock"
+          DEFAULT_STOCK: "preorder"
           DELIVERY_COST: "6.90"
           DELIVERY_TIME_MIN: "4"
           DELIVERY_TIME_MAX: "8"
