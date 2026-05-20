@@ -37,7 +37,7 @@ jobs:
           OUTPUT_PATH: "docs/jeftinije-en.xml"
           FEED_LOCALE: ""
           MIN_QUANTITY: "3"
-          DEFAULT_CATEGORY: "Erotska pomagala"
+          DEFAULT_CATEGORY: "Adult Toys"
           DEFAULT_CURRENCY: "EUR"
           DEFAULT_STOCK: "preorder"
           DELIVERY_COST: "6.90"
