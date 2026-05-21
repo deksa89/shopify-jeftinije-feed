@@ -728,9 +728,9 @@ def build_item_xml(variant: Dict[str, Any]) -> str:
     lines.append(text_tag("mainImage", limit_text(main_image_url(variant), 200)))
 
     more_images = more_image_urls(variant)
-
+    
     if more_images:
-        lines.append(text_tag("moreImages", limit_text(more_images, 1000)))
+        lines.append(text_tag("moreImages", more_images))
 
     lines.append(numeric_tag("price", price))
 
