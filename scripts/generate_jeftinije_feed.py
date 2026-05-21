@@ -236,20 +236,10 @@ def attach_translations(variants: List[Dict[str, Any]], locale: str) -> None:
         }
     )
 
-    variant_ids = sorted(
-        {
-            variant["id"]
-            for variant in variants
-            if variant.get("id")
-        }
-    )
-
     print(f"Fetching translations for locale: {locale}")
     print(f"Products to translate: {len(product_ids)}")
-    print(f"Variants to translate: {len(variant_ids)}")
 
     product_translations: Dict[str, Dict[str, str]] = {}
-    variant_translations: Dict[str, Dict[str, str]] = {}
 
     for index, product_id in enumerate(product_ids, start=1):
         product_translations[product_id] = fetch_translations(product_id, locale)
@@ -259,19 +249,11 @@ def attach_translations(variants: List[Dict[str, Any]], locale: str) -> None:
 
         time.sleep(0.15)
 
-    for index, variant_id in enumerate(variant_ids, start=1):
-        variant_translations[variant_id] = fetch_translations(variant_id, locale)
-
-        if index % 25 == 0:
-            print(f"Fetched variant translations: {index}/{len(variant_ids)}")
-
-        time.sleep(0.15)
-
     for variant in variants:
         product = variant.get("product") or {}
 
         product["_translations"] = product_translations.get(product.get("id"), {})
-        variant["_translations"] = variant_translations.get(variant.get("id"), {})
+        variant["_translations"] = {}
 
 
 def numeric_id(gid: str) -> str:
