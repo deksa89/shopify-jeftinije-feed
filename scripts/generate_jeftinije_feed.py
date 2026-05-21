@@ -307,11 +307,21 @@ def clean_html_description(value: Optional[str], fallback_text: Optional[str] = 
         flags=re.I,
     )
 
-    # Remove inline style attributes because spec says HTML without formatting.
-    description = re.sub(r'\sstyle="[^"]*"', "", description, flags=re.I)
-    description = re.sub(r"\sstyle='[^']*'", "", description, flags=re.I)
+    # Remove HTML comments, including Microsoft Word / Mso conditional comments.
+    description = re.sub(r"<!--.*?-->", "", description, flags=re.S)
 
-    description = description.strip()
+    # Remove all HTML attributes.
+    # Example:
+    # <p data-start="1" class="x"> -> <p>
+    # <strong style="..."> -> <strong>
+    # <li data-section-id="..."> -> <li>
+    description = re.sub(
+        r"<([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*/?>",
+        lambda match: f"<{match.group(1).lower()}>",
+        description,
+    )
+
+    description = re.sub(r"\s+", " ", description).strip()
 
     return description
 
