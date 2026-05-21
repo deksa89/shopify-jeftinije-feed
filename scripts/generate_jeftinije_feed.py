@@ -14,33 +14,31 @@ SHOPIFY_API_VERSION = os.getenv("SHOPIFY_API_VERSION", "2026-04")
 SHOPIFY_STORE = os.getenv("SHOPIFY_STORE")
 SHOPIFY_ADMIN_TOKEN = os.getenv("SHOPIFY_ADMIN_TOKEN")
 
-# Public storefront domain used when Shopify does not return onlineStoreUrl.
 PUBLIC_STORE_DOMAIN = os.getenv("PUBLIC_STORE_DOMAIN", "www.luvmechanics.com")
 
 OUTPUT_PATH = Path(os.getenv("OUTPUT_PATH", "docs/jeftinije.xml"))
 
 # Empty = default Shopify language.
-# Example:
 # FEED_LOCALE=""   -> English/default feed
 # FEED_LOCALE="hr" -> Croatian translated feed
 FEED_LOCALE = os.getenv("FEED_LOCALE", "").strip()
 
 MIN_QUANTITY = int(os.getenv("MIN_QUANTITY", "3"))
-DEFAULT_CATEGORY = os.getenv("DEFAULT_CATEGORY", "Erotska pomagala")
+DEFAULT_CATEGORY = os.getenv(
+    "DEFAULT_CATEGORY",
+    "Erotska pomagala > Ostala erotska pomagala i pribor",
+)
 DEFAULT_CURRENCY = os.getenv("DEFAULT_CURRENCY", "EUR")
 
-# Jeftinije.hr supports: in stock, preorder, out of stock.
-# According to their spec:
-# - "in stock" means product is dispatched no later than 1 day after order
-# - "preorder" means dispatched within 2-10 working days
+# Jeftinije.hr supported values:
+# in stock / preorder / out of stock
 DEFAULT_STOCK = os.getenv("DEFAULT_STOCK", "preorder")
 
 DELIVERY_COST = os.getenv("DELIVERY_COST", "6.90")
 DELIVERY_TIME_MIN = os.getenv("DELIVERY_TIME_MIN", "4")
 DELIVERY_TIME_MAX = os.getenv("DELIVERY_TIME_MAX", "8")
 
-# If true, products without valid EAN-13 are excluded.
-# Jeftinije says EAN is required when product has manufacturer EAN.
+# If true, products without a valid EAN-13 are excluded.
 REQUIRE_EAN = os.getenv("REQUIRE_EAN", "false").lower() == "true"
 
 
@@ -71,10 +69,18 @@ query ProductVariants($cursor: String) {
         title
         handle
         vendor
+        productType
+        tags
         description
         descriptionHtml
         status
         onlineStoreUrl
+        collections(first: 20) {
+          nodes {
+            title
+            handle
+          }
+        }
         images(first: 10) {
           nodes {
             url
@@ -197,9 +203,8 @@ def fetch_translations(resource_id: str, locale: str) -> Dict[str, str]:
     except RuntimeError as error:
         error_text = str(error)
 
-        # Some Shopify resources, especially variants, may not be available
-        # through translatableResource even though they are returned by productVariants.
-        # We skip them and fall back to the default value.
+        # Some resources may not be translatable or may return RESOURCE_NOT_FOUND.
+        # We skip them and fall back to default Shopify values.
         if "RESOURCE_NOT_FOUND" in error_text or "Invalid id" in error_text:
             print(f"Skipping translations for missing resource: {resource_id}")
             return {}
@@ -215,8 +220,6 @@ def fetch_translations(resource_id: str, locale: str) -> Dict[str, str]:
         key = translation.get("key")
         value = translation.get("value")
 
-        # We use the value if it exists. Even if "outdated" is true,
-        # it is usually still better than falling back to English.
         if key and value:
             translated_values[key] = value
 
@@ -270,22 +273,11 @@ def collapse_whitespace(value: Optional[str]) -> str:
     return value
 
 
-def strip_html(value: Optional[str]) -> str:
-    if not value:
-        return ""
-
-    value = html.unescape(str(value))
-    value = re.sub(r"<[^>]+>", " ", value)
-    value = re.sub(r"\s+", " ", value).strip()
-
-    return value
-
-
 def clean_html_description(value: Optional[str], fallback_text: Optional[str] = None) -> str:
     """
     Jeftinije.hr wants description in HTML code without styling.
     Shopify descriptionHtml is already HTML, so we preserve basic HTML.
-    CDATA will protect HTML tags from breaking XML.
+    CDATA protects HTML tags from breaking XML.
     """
     if not value:
         fallback = collapse_whitespace(fallback_text)
@@ -311,11 +303,9 @@ def clean_html_description(value: Optional[str], fallback_text: Optional[str] = 
     description = re.sub(r"<!--.*?-->", "", description, flags=re.S)
 
     # Remove every attribute from opening/self-closing HTML tags.
-    # Examples:
-    # <p data-start="1" data-end="2"> -> <p>
-    # <strong class="x"> -> <strong>
+    # <p data-start="1" class="x"> -> <p>
+    # <strong style="..."> -> <strong>
     # <br data-start="1"> -> <br>
-    # <li data-section-id="abc"> -> <li>
     description = re.sub(
         r"<\s*([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*/\s*>",
         r"<\1>",
@@ -365,28 +355,6 @@ def translated_variant_title(variant: Dict[str, Any]) -> str:
     return resource_translation(variant, "title") or collapse_whitespace(variant.get("title"))
 
 
-def translated_option_value(variant: Dict[str, Any], option_name: str, original_value: str) -> str:
-    """
-    Shopify can expose variant title translations, but selected option translations
-    may not always be returned as simple keys. This keeps the original value as fallback.
-    """
-    translations = variant.get("_translations") or {}
-
-    possible_keys = [
-        option_name,
-        option_name.lower(),
-        f"option_{option_name}",
-        f"option_{option_name.lower()}",
-        original_value,
-    ]
-
-    for key in possible_keys:
-        if key in translations and translations[key]:
-            return translations[key]
-
-    return original_value
-
-
 def limit_text(value: str, max_length: int) -> str:
     value = value.strip()
 
@@ -412,8 +380,7 @@ def is_valid_ean13(digits: str) -> bool:
     if not re.fullmatch(r"\d{13}", digits):
         return False
 
-    # Exclude restricted GS1 ranges mentioned in the Jeftinije.hr spec:
-    # 02, 04, 2 and coupon ranges 98-99.
+    # Exclude restricted GS1 ranges: 02, 04, 2 and coupon ranges 98-99.
     if digits.startswith(("02", "04", "2", "98", "99")):
         return False
 
@@ -494,6 +461,10 @@ def main_image_url(variant: Dict[str, Any]) -> str:
 
 
 def more_image_urls(variant: Dict[str, Any], max_length: int = 1000) -> str:
+    """
+    Adds full image URLs one by one until the 1000-character limit is reached.
+    This prevents cutting a URL in the middle.
+    """
     urls = all_image_urls(variant)
 
     if len(urls) <= 1:
@@ -519,16 +490,258 @@ def more_image_urls(variant: Dict[str, Any], max_length: int = 1000) -> str:
     return ",".join(selected_urls)
 
 
+def normalize_category_key(value: Any) -> str:
+    if value is None:
+        return ""
+
+    text = html.unescape(str(value)).lower()
+    text = text.replace("&", "and")
+    text = text.replace("+", "plus")
+    text = text.replace("'", "")
+    text = text.replace("’", "")
+    text = text.replace("đ", "d")
+
+    text = re.sub(r"[^a-z0-9čćšž]+", "-", text)
+    text = re.sub(r"-+", "-", text).strip("-")
+
+    return text
+
+
+IGNORED_COLLECTION_KEYS = {
+    "all",
+    "all-products",
+    "bestsellers",
+    "best-sellers",
+    "new-arrivals",
+    "new",
+    "featured",
+    "frontpage",
+    "homepage",
+    "home-page",
+    "for-men",
+    "men",
+    "for-women",
+    "women",
+    "couples",
+    "for-couples",
+    "sale",
+    "sales",
+    "discount",
+    "discounts",
+    "deals",
+    "bundles",
+    "bundle",
+    "premium",
+    "beginner",
+    "confident-pleasure",
+    "curious-explorers",
+}
+
+
+SHOPIFY_COLLECTION_TO_JEFTINIJE_CATEGORY = {
+    # Vibratori
+    "vibrators": "Erotska pomagala > Vibratori",
+    "vibrator": "Erotska pomagala > Vibratori",
+    "vibratori": "Erotska pomagala > Vibratori",
+    "rabbit-vibrators": "Erotska pomagala > Vibratori",
+    "rabbit-vibrator": "Erotska pomagala > Vibratori",
+    "rabbit-vibratori": "Erotska pomagala > Vibratori",
+    "clitoris-stimulators": "Erotska pomagala > Vibratori",
+    "clitoral-stimulators": "Erotska pomagala > Vibratori",
+    "clitoris-stimulator": "Erotska pomagala > Vibratori",
+    "clitoral-stimulator": "Erotska pomagala > Vibratori",
+    "stimulatori-klitorisa": "Erotska pomagala > Vibratori",
+    "stimulator-klitorisa": "Erotska pomagala > Vibratori",
+    "wand-vibrators": "Erotska pomagala > Vibratori",
+    "wand-massagers": "Erotska pomagala > Vibratori",
+    "massagers": "Erotska pomagala > Vibratori",
+    "masazeri": "Erotska pomagala > Vibratori",
+    "masažeri": "Erotska pomagala > Vibratori",
+
+    # Masturbatori
+    "masturbators": "Erotska pomagala > Masturbatori",
+    "masturbator": "Erotska pomagala > Masturbatori",
+    "masturbatori": "Erotska pomagala > Masturbatori",
+    "male-masturbators": "Erotska pomagala > Masturbatori",
+    "strokers": "Erotska pomagala > Masturbatori",
+    "stroker": "Erotska pomagala > Masturbatori",
+    "automatic-masturbators": "Erotska pomagala > Masturbatori",
+    "interactive-masturbators": "Erotska pomagala > Masturbatori",
+
+    # Erekcijske pumpe
+    "penis-pumps": "Erotska pomagala > Erekcijske pumpe",
+    "penis-pump": "Erotska pomagala > Erekcijske pumpe",
+    "erekcijske-pumpe": "Erotska pomagala > Erekcijske pumpe",
+    "pumpe-za-penis": "Erotska pomagala > Erekcijske pumpe",
+
+    # Povećavanje penisa
+    "penis-enlargement": "Erotska pomagala > Povećavanje penisa",
+    "penis-enlargers": "Erotska pomagala > Povećavanje penisa",
+    "povecavanje-penisa": "Erotska pomagala > Povećavanje penisa",
+    "povećavanje-penisa": "Erotska pomagala > Povećavanje penisa",
+
+    # Erekcijski prsteni
+    "penis-rings": "Erotska pomagala > Erekcijski prsteni",
+    "cock-rings": "Erotska pomagala > Erekcijski prsteni",
+    "erection-rings": "Erotska pomagala > Erekcijski prsteni",
+    "erekcijski-prsteni": "Erotska pomagala > Erekcijski prsteni",
+    "prstenovi-za-penis": "Erotska pomagala > Erekcijski prsteni",
+
+    # Analni pribor
+    "anal-toys": "Erotska pomagala > Analni pribor",
+    "anal": "Erotska pomagala > Analni pribor",
+    "analni-pribor": "Erotska pomagala > Analni pribor",
+    "butt-plugs": "Erotska pomagala > Analni pribor",
+    "prostate-massagers": "Erotska pomagala > Analni pribor",
+
+    # Dildo
+    "dildos": "Erotska pomagala > Umjetni penis (dildo)",
+    "dildo": "Erotska pomagala > Umjetni penis (dildo)",
+    "umjetni-penis": "Erotska pomagala > Umjetni penis (dildo)",
+
+    # Vaginalne kuglice
+    "vaginal-balls": "Erotska pomagala > Vaginalne kuglice",
+    "kegel-balls": "Erotska pomagala > Vaginalne kuglice",
+    "vaginalne-kuglice": "Erotska pomagala > Vaginalne kuglice",
+
+    # Kompleti
+    "couples-sets": "Erotska pomagala > Kompleti erotskog pribora",
+    "couple-sets": "Erotska pomagala > Kompleti erotskog pribora",
+    "sets-for-couples": "Erotska pomagala > Kompleti erotskog pribora",
+    "kompleti": "Erotska pomagala > Kompleti erotskog pribora",
+    "kompleti-erotskog-pribora": "Erotska pomagala > Kompleti erotskog pribora",
+
+    # Fetiš / S&M
+    "fetish": "Erotska pomagala > Fetiš (S & M) erotska pomagala",
+    "fetish-sm": "Erotska pomagala > Fetiš (S & M) erotska pomagala",
+    "bdsm": "Erotska pomagala > Fetiš (S & M) erotska pomagala",
+    "s-m": "Erotska pomagala > Fetiš (S & M) erotska pomagala",
+    "s-and-m": "Erotska pomagala > Fetiš (S & M) erotska pomagala",
+
+    # Sex lutke
+    "sex-dolls": "Erotska pomagala > Sex lutke",
+    "sex-doll": "Erotska pomagala > Sex lutke",
+    "sex-lutke": "Erotska pomagala > Sex lutke",
+
+    # Ostalo / pribor
+    "lubricants": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "lubricant": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "lubrikanti": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "cleaners": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "toy-cleaners": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "accessories": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "pribor": "Erotska pomagala > Ostala erotska pomagala i pribor",
+    "other": "Erotska pomagala > Ostala erotska pomagala i pribor",
+}
+
+
+CATEGORY_PRIORITY = [
+    "Erotska pomagala > Erekcijske pumpe",
+    "Erotska pomagala > Povećavanje penisa",
+    "Erotska pomagala > Erekcijski prsteni",
+    "Erotska pomagala > Masturbatori",
+    "Erotska pomagala > Analni pribor",
+    "Erotska pomagala > Umjetni penis (dildo)",
+    "Erotska pomagala > Vaginalne kuglice",
+    "Erotska pomagala > Kompleti erotskog pribora",
+    "Erotska pomagala > Fetiš (S & M) erotska pomagala",
+    "Erotska pomagala > Sex lutke",
+    "Erotska pomagala > Vibratori",
+    "Erotska pomagala > Ostala erotska pomagala i pribor",
+]
+
+
+def product_collection_keys(product: Dict[str, Any]) -> List[str]:
+    collections = ((product.get("collections") or {}).get("nodes")) or []
+    keys: List[str] = []
+
+    for collection in collections:
+        title_key = normalize_category_key(collection.get("title"))
+        handle_key = normalize_category_key(collection.get("handle"))
+
+        for key in (handle_key, title_key):
+            if key and key not in IGNORED_COLLECTION_KEYS and key not in keys:
+                keys.append(key)
+
+    return keys
+
+
+def product_feed_category(variant: Dict[str, Any]) -> str:
+    product = variant.get("product") or {}
+    matched_categories: List[str] = []
+
+    # 1. Prefer Shopify collections.
+    for key in product_collection_keys(product):
+        category = SHOPIFY_COLLECTION_TO_JEFTINIJE_CATEGORY.get(key)
+
+        if category and category not in matched_categories:
+            matched_categories.append(category)
+
+    # 2. Fallback to Shopify productType.
+    product_type_key = normalize_category_key(product.get("productType"))
+    category = SHOPIFY_COLLECTION_TO_JEFTINIJE_CATEGORY.get(product_type_key)
+
+    if category and category not in matched_categories:
+        matched_categories.append(category)
+
+    # 3. Fallback to product tags.
+    for tag in product.get("tags") or []:
+        tag_key = normalize_category_key(tag)
+        category = SHOPIFY_COLLECTION_TO_JEFTINIJE_CATEGORY.get(tag_key)
+
+        if category and category not in matched_categories:
+            matched_categories.append(category)
+
+    # 4. Choose by priority if multiple collections matched.
+    for priority_category in CATEGORY_PRIORITY:
+        if priority_category in matched_categories:
+            return priority_category
+
+    # 5. Final fallback.
+    return DEFAULT_CATEGORY
+
+
+ENGLISH_TO_CROATIAN_COLORS = {
+    "black": "crna",
+    "white": "bijela",
+    "red": "crvena",
+    "blue": "plava",
+    "purple": "ljubičasta",
+    "pink": "ružičasta",
+    "gray": "siva",
+    "grey": "siva",
+    "green": "zelena",
+    "orange": "narančasta",
+    "yellow": "žuta",
+    "teal": "tirkizna",
+    "turquoise": "tirkizna",
+    "fuchsia": "fuksija",
+    "lilac": "lila",
+    "indigo": "indigo",
+    "brown": "smeđa",
+    "transparent": "prozirna",
+}
+
+
+def translate_color_value(value: str) -> str:
+    normalized = collapse_whitespace(value)
+    key = normalized.lower()
+
+    if FEED_LOCALE == "hr":
+        return ENGLISH_TO_CROATIAN_COLORS.get(key, normalized)
+
+    return normalized
+
+
 def selected_options_map(variant: Dict[str, Any]) -> Dict[str, str]:
     options = {}
 
     for option in variant.get("selectedOptions") or []:
         name = collapse_whitespace(option.get("name")).lower()
-        original_value = collapse_whitespace(option.get("value"))
-        translated_value = translated_option_value(variant, name, original_value)
+        value = collapse_whitespace(option.get("value"))
 
-        if name and translated_value:
-            options[name] = translated_value
+        if name and value:
+            options[name] = translate_color_value(value) if name in ("color", "colour", "boja") else value
 
     return options
 
@@ -540,28 +753,10 @@ def variant_color(variant: Dict[str, Any]) -> str:
         if key in options:
             return limit_text(options[key], 40)
 
-    # Fallback: try to infer color from variant title after dash/name.
     title = collapse_whitespace(translated_variant_title(variant))
-    known_colors = {
-        "black": "crna",
-        "white": "bijela",
-        "red": "crvena",
-        "blue": "plava",
-        "purple": "ljubičasta",
-        "pink": "ružičasta",
-        "gray": "siva",
-        "grey": "siva",
-        "green": "zelena",
-        "orange": "narančasta",
-        "teal": "tirkizna",
-        "turquoise": "tirkizna",
-        "fuchsia": "fuksija",
-        "indigo": "indigo",
-    }
-
     lower_title = title.lower()
 
-    for english, croatian in known_colors.items():
+    for english, croatian in ENGLISH_TO_CROATIAN_COLORS.items():
         if english in lower_title:
             return croatian if FEED_LOCALE == "hr" else english
 
@@ -583,6 +778,9 @@ def variant_name(variant: Dict[str, Any]) -> str:
 
     product_title = limit_text(collapse_whitespace(translated_product_title(product)), 170)
     variant_title = collapse_whitespace(translated_variant_title(variant))
+
+    if FEED_LOCALE == "hr":
+        variant_title = translate_color_value(variant_title)
 
     if variant_title and variant_title.lower() != "default title":
         return limit_text(f"{product_title}-{variant_title}", 200)
@@ -625,10 +823,6 @@ def should_include_variant(variant: Dict[str, Any]) -> bool:
 
 
 def cdata(value: Any) -> str:
-    """
-    Safe CDATA wrapper. Handles rare occurrence of ]]>
-    inside source text.
-    """
     text = "" if value is None else str(value)
     text = text.replace("]]>", "]]]]><![CDATA[>")
     return f"<![CDATA[{text}]]>"
@@ -664,6 +858,7 @@ def build_attributes_xml(variant: Dict[str, Any]) -> List[str]:
     sku = limit_text(collapse_whitespace(variant.get("sku")), 20)
     color = variant_color(variant)
     size = variant_size(variant)
+    category = product_feed_category(variant)
 
     lines = []
     lines.append("\t<attributes>")
@@ -675,7 +870,7 @@ def build_attributes_xml(variant: Dict[str, Any]) -> List[str]:
     attribute_values = {
         "Brand": brand,
         "SKU": sku,
-        "Kategorija": DEFAULT_CATEGORY,
+        "Kategorija": category,
     }
 
     if color:
@@ -711,6 +906,7 @@ def build_item_xml(variant: Dict[str, Any]) -> str:
     ean = normalize_ean(variant.get("barcode"))
     sku = limit_text(collapse_whitespace(variant.get("sku")), 20)
     brand = limit_text(collapse_whitespace(product.get("vendor")), 50)
+    category = product_feed_category(variant)
 
     description = clean_html_description(
         translated_product_description_html(product),
@@ -728,7 +924,7 @@ def build_item_xml(variant: Dict[str, Any]) -> str:
     lines.append(text_tag("mainImage", limit_text(main_image_url(variant), 200)))
 
     more_images = more_image_urls(variant)
-    
+
     if more_images:
         lines.append(text_tag("moreImages", more_images))
 
@@ -740,7 +936,7 @@ def build_item_xml(variant: Dict[str, Any]) -> str:
     lines.append(text_tag("curCode", DEFAULT_CURRENCY, use_cdata=False))
     lines.append(text_tag("stock", DEFAULT_STOCK, use_cdata=False))
     lines.append(numeric_tag("quantity", int(variant["inventoryQuantity"])))
-    lines.append(text_tag("fileUnder", limit_text(DEFAULT_CATEGORY, 400)))
+    lines.append(text_tag("fileUnder", limit_text(category, 400)))
     lines.append(text_tag("brand", brand))
 
     if ean:
