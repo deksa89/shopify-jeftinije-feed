@@ -493,13 +493,30 @@ def main_image_url(variant: Dict[str, Any]) -> str:
     return urls[0] if urls else ""
 
 
-def more_image_urls(variant: Dict[str, Any]) -> str:
+def more_image_urls(variant: Dict[str, Any], max_length: int = 1000) -> str:
     urls = all_image_urls(variant)
 
     if len(urls) <= 1:
         return ""
 
-    return ",".join(urls[1:])
+    selected_urls: List[str] = []
+    current_length = 0
+
+    for url in urls[1:]:
+        url = url.strip()
+
+        if not url:
+            continue
+
+        additional_length = len(url) if not selected_urls else len(url) + 1
+
+        if current_length + additional_length > max_length:
+            break
+
+        selected_urls.append(url)
+        current_length += additional_length
+
+    return ",".join(selected_urls)
 
 
 def selected_options_map(variant: Dict[str, Any]) -> Dict[str, str]:
