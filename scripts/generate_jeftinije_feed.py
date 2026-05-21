@@ -186,13 +186,25 @@ def fetch_translations(resource_id: str, locale: str) -> Dict[str, str]:
     if not locale:
         return {}
 
-    data = shopify_graphql(
-        TRANSLATABLE_RESOURCE_QUERY,
-        {
-            "resourceId": resource_id,
-            "locale": locale,
-        },
-    )
+    try:
+        data = shopify_graphql(
+            TRANSLATABLE_RESOURCE_QUERY,
+            {
+                "resourceId": resource_id,
+                "locale": locale,
+            },
+        )
+    except RuntimeError as error:
+        error_text = str(error)
+
+        # Some Shopify resources, especially variants, may not be available
+        # through translatableResource even though they are returned by productVariants.
+        # We skip them and fall back to the default value.
+        if "RESOURCE_NOT_FOUND" in error_text or "Invalid id" in error_text:
+            print(f"Skipping translations for missing resource: {resource_id}")
+            return {}
+
+        raise
 
     resource = data.get("translatableResource") or {}
     translations = resource.get("translations") or []
