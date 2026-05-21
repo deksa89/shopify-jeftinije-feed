@@ -310,14 +310,28 @@ def clean_html_description(value: Optional[str], fallback_text: Optional[str] = 
     # Remove HTML comments, including Microsoft Word / Mso conditional comments.
     description = re.sub(r"<!--.*?-->", "", description, flags=re.S)
 
-    # Remove all HTML attributes.
-    # Example:
-    # <p data-start="1" class="x"> -> <p>
-    # <strong style="..."> -> <strong>
-    # <li data-section-id="..."> -> <li>
+    # Remove every attribute from opening/self-closing HTML tags.
+    # Examples:
+    # <p data-start="1" data-end="2"> -> <p>
+    # <strong class="x"> -> <strong>
+    # <br data-start="1"> -> <br>
+    # <li data-section-id="abc"> -> <li>
     description = re.sub(
-        r"<([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*/?>",
-        lambda match: f"<{match.group(1).lower()}>",
+        r"<\s*([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*/\s*>",
+        r"<\1>",
+        description,
+    )
+
+    description = re.sub(
+        r"<\s*([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*>",
+        r"<\1>",
+        description,
+    )
+
+    # Normalize closing tags too.
+    description = re.sub(
+        r"</\s*([a-zA-Z][a-zA-Z0-9]*)\s*>",
+        r"</\1>",
         description,
     )
 
