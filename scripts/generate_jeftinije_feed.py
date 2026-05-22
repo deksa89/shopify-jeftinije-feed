@@ -72,7 +72,7 @@ query ProductVariants($cursor: String) {
         productType
         tags
         targetGender: metafield(namespace: "custom", key: "target-gender") {
-            value
+          value
         }
         description
         descriptionHtml
@@ -403,7 +403,20 @@ def capitalize_title_text(value: str) -> str:
         upper_word = word.upper()
 
         # Keep technical words readable.
-        if upper_word in {"USB", "USB-C", "G", "G-TOČKA", "G-TOCKA", "APP", "WIFI", "WI-FI", "IPX7", "ABS", "TPE", "BPA"}:
+        if upper_word in {
+            "USB",
+            "USB-C",
+            "G",
+            "G-TOČKA",
+            "G-TOCKA",
+            "APP",
+            "WIFI",
+            "WI-FI",
+            "IPX7",
+            "ABS",
+            "TPE",
+            "BPA",
+        }:
             words.append(upper_word)
             continue
 
@@ -840,6 +853,7 @@ def variant_color(variant: Dict[str, Any]) -> str:
 
     return ""
 
+
 def product_target_gender(variant: Dict[str, Any]) -> str:
     product = variant.get("product") or {}
     metafield = product.get("targetGender") or {}
@@ -991,9 +1005,9 @@ def build_attributes_xml(variant: Dict[str, Any]) -> List[str]:
         "SKU": sku,
         "Kategorija": category,
     }
-    
+
     if target_gender:
-    attribute_values["Namjena"] = target_gender
+        attribute_values["Namjena"] = target_gender
 
     if color:
         attribute_values["Boja"] = color
