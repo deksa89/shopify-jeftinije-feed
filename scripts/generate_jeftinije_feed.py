@@ -71,9 +71,7 @@ query ProductVariants($cursor: String) {
         vendor
         productType
         tags
-        targetGender: metafield(namespace: "custom", key: "target-gender") {
-          value
-        }
+        target-gender
         description
         descriptionHtml
         status
@@ -856,7 +854,7 @@ def variant_color(variant: Dict[str, Any]) -> str:
 
 def product_target_gender(variant: Dict[str, Any]) -> str:
     product = variant.get("product") or {}
-    metafield = product.get("targetGender") or {}
+    metafield = product.get("target-gender") or {}
 
     value = collapse_whitespace(metafield.get("value"))
 
