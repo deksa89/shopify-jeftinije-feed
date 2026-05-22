@@ -21,7 +21,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -55,7 +55,7 @@
 	<price>132.90</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209362]]></EAN>
@@ -66,7 +66,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -111,7 +111,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -156,7 +156,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -201,7 +201,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -246,7 +246,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -291,7 +291,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -336,7 +336,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -381,7 +381,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -426,7 +426,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684189999441]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -477,7 +477,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684186296657]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -528,7 +528,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684186296657]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -579,7 +579,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684186296657]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -630,7 +630,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684186755409]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -681,7 +681,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684183740753]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Dark blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -732,7 +732,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684183249233]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -783,7 +783,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684183249233]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Rose]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -834,7 +834,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684182593873]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -885,7 +885,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684182069585]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -936,7 +936,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10684182069585]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -987,7 +987,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457880854865]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Red]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1038,7 +1038,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457880854865]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1089,7 +1089,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457880101201]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1140,7 +1140,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457880101201]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1191,7 +1191,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457880101201]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Violet]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1242,7 +1242,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457879937361]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Grey]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1282,7 +1282,7 @@
 	<price>49.95</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504018362]]></EAN>
@@ -1293,7 +1293,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457879937361]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1344,7 +1344,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457820365137]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Red]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1395,7 +1395,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457820365137]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Teal]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1446,7 +1446,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457820332369]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Red]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1497,7 +1497,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457820332369]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1548,7 +1548,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457818038609]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1599,7 +1599,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457818038609]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1650,7 +1650,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457814335825]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Indigo]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1701,7 +1701,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457814335825]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Turquoise]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1752,7 +1752,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457814335825]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1803,7 +1803,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457814335825]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Gray]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1854,7 +1854,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457812336977]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1905,7 +1905,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457810370897]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -1936,57 +1936,6 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[53603998728529]]></ID>
-	<name><![CDATA[LELO Enigma Double Suction Massager, Black]]></name>
-	<description><![CDATA[We never settle, that's why we always have to go further to offer something truly from another planet. Discover ENIGMA™, a luxurious dual-action massager that offers the best of both worlds: deep clitoral and G-spot stimulation. ENIGMA™ has been created for otherworldly, sonic orgasms. The owners of an ENIGMA™ are owners of their sexual desires and are responsible for analyzing them one by one. They carry their uniqueness as their flag, from their own style to their hidden desires and pleasures, with pride, and consume them as they want, without fear of feeling different. Unlike other similar products, ENIGMA™ offers a clitoral pulsation in addition to a G-spot vibration, for an orgasm so intense that not everyone can endure. WHAT IS ENIGMA?. ENIGMA™ is inspired by two of our best-selling products, SONA™ and SORAYA™ and offers the concept of the world's most luxurious hybrid pleasure. It uses sonic wave technology, which stimulates the clitoris while resonating deeply in your body, and also has an internal ergonomic stimulator that massages your G-spot, just like our SORAYA™, to lead you to a progressive orgasm that It floods you again and again. PRODUCT DESCRIPTION. ENIGMA™ is a luxurious dual-action sonic massager designed to stimulate both the entire clitoris (both visible and hidden) and the G-spot, for an intense orgasm that will make you feel like you're orbiting outside of this planet. With the best sonic waves for the outer part of the clitoris and gentle pulsations on the inner part of your body, ENIGMA™ moves through the right places to give you an orgasm you will never forget. •Combines sonic waves with gentle pulsations for double the pleasure. •8 vibration patterns to find that "perfect" feeling. •Internal and external stimulation for amazing pleasure, just the way you like it. •100% submersible and USB rechargeable to take wherever you want. •Silent, but powerful and discreet, for an endless experience. •1 year warranty and 10 years quality guarantee. ENIGMA™ is a luxurious dual-action sonic massager designed to stimulate both the entire clitoris (both visible and hidden) and the G-spot, for an intense orgasm that will make you feel like you're orbiting outside of this planet. With the best sonic waves for the outer part of the clitoris and gentle pulsations on the inner part of your body, ENIGMA™ moves through the right places to give you an orgasm you will never forget. With the option to activate both types of stimulation, ENIGMA™ allows you to experience two different types of climaxes. It is designed for the most curious who wish to immerse themselves in new pleasures to discover. SENSONIC™ TECHNOLOGY. Without making direct contact, the sonic waves offer clitoral stimulation for a deeper but gentler sensation. DOUBLE EXCITATION. Simultaneously caressing the clitoris (both the part that is visible and the part that cannot be seen) and the vagina. ERGONOMIC INTERNAL STIMULATOR. With a flexible internal stimulator with very powerful vibrations that stimulate your G-spot. Content. ENIGMA™. USB-Charger. satin cover. Warranty Registration. User manual. Characteristics. Materials: ABS/ Body-safe silicone. Color: Deep Rose, Black. Interface: 3 button interface. Off: automatically turns off after 60 minutes. Frequency: 60Hz/100Hz. Battery: Li-lon 850mAh 3.7V. Use time: up to 2 hours. Standby time: up to 90 days. Size: 100 x 50 x 185mm. Insertable length: 140mm. Weight (product only): 196g]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/lelo-enigma-double-suction-stimulation-purple-massager?variant=53603998728529]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-black-8309168.png?v=1775073135]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-8358603.jpg?v=1775073032,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-1008845.jpg?v=1775073035,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-1420885.jpg?v=1775073036,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-3661838.jpg?v=1775073034,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-6956404.jpg?v=1775073034,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-5417804.jpg?v=1775073032,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-9517949.jpg?v=1775073035,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/enigma-double-suction-massager-purple-8814398.jpg?v=1775073032]]></moreImages>
-	<price>175.90</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>4</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075028182]]></EAN>
-	<productCode><![CDATA[D-228120]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId><![CDATA[10457810370897]]></groupId>
-	<attributes>
-		<gender></gender>
-		<color><![CDATA[Black]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-228120]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Boja]]></name>
-			<values>
-				<value><![CDATA[Black]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
 	<ID><![CDATA[53604033986897]]></ID>
 	<name><![CDATA[LELO Clitoris Stimulator Sona 2, Lilac]]></name>
 	<description><![CDATA[LELO SONA 2 is the larger and bolder follow-up to one of LELO’s most popular products. Designed to redefine clitoral pleasure, this new generation offers stimulation through waves without direct contact, creating a sensation that feels subtle, powerful, and deeply satisfying. The Sona 2 is made to provide a broader and deeper experience thanks to its greater surface area and larger mouthpiece. Its design allows stimulation both inside and out, helping create a softer and deeper feeling during use. The wave-based stimulation is focused on the clitoris and is intended to deliver pleasure in a way that feels different from traditional direct-contact toys. Made from ultra-soft premium body-safe silicone, the SONA 2 has a smooth and comfortable feel. It includes 12 vibration modes, giving you different intensity and sensation options to explore. It is also 100% fully USB rechargeable and submersible, making it practical as well as luxurious. With dimensions of 99 x 87 x 56 mm, the LELO SONA 2 combines a bold shape, premium materials, and wave-based stimulation in one elegant device]]></description>
@@ -2007,7 +1956,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457810305361]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2058,7 +2007,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457810305361]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Fuchsia]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2109,7 +2058,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457810305361]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Cruise lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2160,7 +2109,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457805881681]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2211,7 +2160,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457805881681]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2262,7 +2211,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457801130321]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2313,7 +2262,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457800900945]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2364,7 +2313,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457800900945]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2415,7 +2364,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10457800900945]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Midnight blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2466,7 +2415,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2511,7 +2460,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2556,7 +2505,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2601,7 +2550,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2646,7 +2595,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2691,7 +2640,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2736,7 +2685,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2781,7 +2730,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2826,7 +2775,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2871,7 +2820,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2916,7 +2865,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775188078929]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -2967,7 +2916,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775188078929]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3018,7 +2967,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775189586257]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3069,7 +3018,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775189651793]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3120,7 +3069,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775189651793]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3171,7 +3120,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775191028049]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3222,7 +3171,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775194042705]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3273,7 +3222,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775194042705]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3324,7 +3273,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786017182033]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3375,7 +3324,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786017182033]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3426,7 +3375,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786017182033]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3477,7 +3426,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020196689]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3528,7 +3477,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020196689]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Green]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3579,7 +3528,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020196689]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lavander]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3630,7 +3579,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020229457]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3681,7 +3630,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020229457]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3732,7 +3681,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020753745]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3783,7 +3732,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786020753745]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3834,7 +3783,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786022130001]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Blue]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3885,7 +3834,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786022130001]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Lilac]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3936,7 +3885,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786022195537]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -3987,7 +3936,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786022195537]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Red]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4038,7 +3987,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786024849745]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Orange]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4089,7 +4038,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786024849745]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4140,7 +4089,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10786024849745]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Red]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4191,7 +4140,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775192928593]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Black]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4242,7 +4191,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775192928593]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Red]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4293,7 +4242,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775192928593]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Pink]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
@@ -4344,7 +4293,7 @@
 	<deliveryTimeMax>8</deliveryTimeMax>
 	<groupId><![CDATA[10775192928593]]></groupId>
 	<attributes>
-		<gender></gender>
+		<gender><![CDATA[]]></gender>
 		<color><![CDATA[Purple]]></color>
 		<size><![CDATA[]]></size>
 		<ageGroup>adult</ageGroup>
