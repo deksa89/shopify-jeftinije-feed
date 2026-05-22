@@ -275,57 +275,51 @@ def collapse_whitespace(value: Optional[str]) -> str:
 
 def clean_html_description(value: Optional[str], fallback_text: Optional[str] = None) -> str:
     """
-    Jeftinije.hr wants description in HTML code without styling.
-    Shopify descriptionHtml is already HTML, so we preserve basic HTML.
-    CDATA protects HTML tags from breaking XML.
+    Converts Shopify HTML description into clean plain text.
+    Text is still wrapped in CDATA later, but HTML tags are removed.
     """
     if not value:
-        fallback = collapse_whitespace(fallback_text)
-        return f"<p>{fallback}</p>" if fallback else ""
+        value = fallback_text or ""
 
     description = str(value)
 
-    # Remove risky/unnecessary tags if any app injected them.
+    # Remove risky/unnecessary blocks.
     description = re.sub(
         r"<script\b[^<]*(?:(?!</script>)<[^<]*)*</script>",
-        "",
+        " ",
         description,
         flags=re.I,
     )
     description = re.sub(
         r"<style\b[^<]*(?:(?!</style>)<[^<]*)*</style>",
-        "",
+        " ",
         description,
         flags=re.I,
     )
 
-    # Remove HTML comments, including Microsoft Word / Mso conditional comments.
-    description = re.sub(r"<!--.*?-->", "", description, flags=re.S)
+    # Remove HTML comments.
+    description = re.sub(r"<!--.*?-->", " ", description, flags=re.S)
 
-    # Remove every attribute from opening/self-closing HTML tags.
-    # <p data-start="1" class="x"> -> <p>
-    # <strong style="..."> -> <strong>
-    # <br data-start="1"> -> <br>
-    description = re.sub(
-        r"<\s*([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*/\s*>",
-        r"<\1>",
-        description,
-    )
+    # Convert common block/list tags into readable punctuation before stripping tags.
+    description = re.sub(r"</p\s*>", ". ", description, flags=re.I)
+    description = re.sub(r"<br\s*/?>", ". ", description, flags=re.I)
+    description = re.sub(r"</li\s*>", ". ", description, flags=re.I)
+    description = re.sub(r"<li\b[^>]*>", " ", description, flags=re.I)
+    description = re.sub(r"</h[1-6]\s*>", ". ", description, flags=re.I)
+    description = re.sub(r"</div\s*>", ". ", description, flags=re.I)
 
-    description = re.sub(
-        r"<\s*([a-zA-Z][a-zA-Z0-9]*)(?:\s+[^<>]*?)?\s*>",
-        r"<\1>",
-        description,
-    )
+    # Remove all remaining HTML tags.
+    description = re.sub(r"<[^>]+>", " ", description)
 
-    # Normalize closing tags too.
-    description = re.sub(
-        r"</\s*([a-zA-Z][a-zA-Z0-9]*)\s*>",
-        r"</\1>",
-        description,
-    )
+    # Decode HTML entities.
+    description = html.unescape(description)
 
-    description = re.sub(r"\s+", " ", description).strip()
+    # Clean leftover spacing and punctuation.
+    description = re.sub(r"\s+", " ", description)
+    description = re.sub(r"\s+\.", ".", description)
+    description = re.sub(r"\.{2,}", ".", description)
+    description = re.sub(r"\s+,", ",", description)
+    description = description.strip(" .")
 
     return description
 
@@ -362,6 +356,87 @@ def limit_text(value: str, max_length: int) -> str:
         return value
 
     return value[:max_length].rstrip()
+
+
+def clean_brand(value: Any) -> str:
+    brand = collapse_whitespace(value)
+
+    if not brand:
+        return ""
+
+    return brand.upper()
+
+
+def remove_brand_from_title(title: str, brand: str) -> str:
+    title = collapse_whitespace(title)
+    brand = collapse_whitespace(brand)
+
+    if not title or not brand:
+        return title
+
+    # Remove brand only if it appears at the beginning of the title.
+    # Example: "KIIROO SPOT KISS ME VIBRATOR" -> "SPOT KISS ME VIBRATOR"
+    pattern = rf"^{re.escape(brand)}[\s\-:|]+"
+    title = re.sub(pattern, "", title, flags=re.I).strip()
+
+    return title
+
+
+def capitalize_title_text(value: str) -> str:
+    value = collapse_whitespace(value)
+
+    if not value:
+        return ""
+
+    value = value.replace("_", " ")
+    value = re.sub(r"\s+", " ", value).strip()
+
+    words = []
+
+    for word in value.split(" "):
+        if not word:
+            continue
+
+        upper_word = word.upper()
+
+        # Keep technical words readable.
+        if upper_word in {"USB", "USB-C", "G", "G-TOČKA", "G-TOCKA", "APP", "WIFI", "WI-FI", "IPX7", "ABS", "TPE", "BPA"}:
+            words.append(upper_word)
+            continue
+
+        # Preserve words with digits mostly uppercase/readable: SONA 3, TOR 2, IPX7.
+        if any(char.isdigit() for char in word):
+            words.append(upper_word)
+            continue
+
+        if "-" in word:
+            parts = [
+                part[:1].upper() + part[1:].lower()
+                for part in word.split("-")
+                if part
+            ]
+            words.append("-".join(parts))
+            continue
+
+        words.append(word[:1].upper() + word[1:].lower())
+
+    return " ".join(words)
+
+
+def feed_product_title(product: Dict[str, Any]) -> str:
+    brand = clean_brand(product.get("vendor"))
+    raw_title = translated_product_title(product)
+
+    title_without_brand = remove_brand_from_title(raw_title, brand)
+    title = capitalize_title_text(title_without_brand)
+
+    if brand and title:
+        return f"{brand} {title}"
+
+    if brand:
+        return brand
+
+    return title
 
 
 def normalize_price(value: Any) -> str:
@@ -776,14 +851,16 @@ def variant_size(variant: Dict[str, Any]) -> str:
 def variant_name(variant: Dict[str, Any]) -> str:
     product = variant.get("product") or {}
 
-    product_title = limit_text(collapse_whitespace(translated_product_title(product)), 170)
+    product_title = feed_product_title(product)
     variant_title = collapse_whitespace(translated_variant_title(variant))
 
     if FEED_LOCALE == "hr":
         variant_title = translate_color_value(variant_title)
+    else:
+        variant_title = capitalize_title_text(variant_title)
 
     if variant_title and variant_title.lower() != "default title":
-        return limit_text(f"{product_title}-{variant_title}", 200)
+        return limit_text(f"{product_title}, {variant_title}", 200)
 
     return limit_text(product_title, 200)
 
