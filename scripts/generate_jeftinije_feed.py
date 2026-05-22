@@ -71,6 +71,9 @@ query ProductVariants($cursor: String) {
         vendor
         productType
         tags
+        targetGender: metafield(namespace: "custom", key: "target-gender") {
+            value
+        }
         description
         descriptionHtml
         status
@@ -837,6 +840,44 @@ def variant_color(variant: Dict[str, Any]) -> str:
 
     return ""
 
+def product_target_gender(variant: Dict[str, Any]) -> str:
+    product = variant.get("product") or {}
+    metafield = product.get("targetGender") or {}
+
+    value = collapse_whitespace(metafield.get("value"))
+
+    if not value:
+        return ""
+
+    normalized = value.lower()
+
+    if FEED_LOCALE == "hr":
+        gender_map = {
+            "female": "žene",
+            "women": "žene",
+            "woman": "žene",
+            "male": "muškarci",
+            "men": "muškarci",
+            "man": "muškarci",
+            "couples": "parovi",
+            "couple": "parovi",
+            "unisex": "unisex",
+        }
+    else:
+        gender_map = {
+            "female": "female",
+            "women": "female",
+            "woman": "female",
+            "male": "male",
+            "men": "male",
+            "man": "male",
+            "couples": "couples",
+            "couple": "couples",
+            "unisex": "unisex",
+        }
+
+    return gender_map.get(normalized, value)
+
 
 def variant_size(variant: Dict[str, Any]) -> str:
     options = selected_options_map(variant)
@@ -936,10 +977,11 @@ def build_attributes_xml(variant: Dict[str, Any]) -> List[str]:
     color = variant_color(variant)
     size = variant_size(variant)
     category = product_feed_category(variant)
+    target_gender = product_target_gender(variant)
 
     lines = []
     lines.append("\t<attributes>")
-    lines.append(text_tag("gender", "", indent=2, use_cdata=False))
+    lines.append(text_tag("gender", target_gender, indent=2, use_cdata=True))
     lines.append(text_tag("color", color, indent=2, use_cdata=True))
     lines.append(text_tag("size", size, indent=2, use_cdata=True))
     lines.append(text_tag("ageGroup", "adult", indent=2, use_cdata=False))
@@ -949,6 +991,9 @@ def build_attributes_xml(variant: Dict[str, Any]) -> List[str]:
         "SKU": sku,
         "Kategorija": category,
     }
+    
+    if target_gender:
+    attribute_values["Namjena"] = target_gender
 
     if color:
         attribute_values["Boja"] = color
