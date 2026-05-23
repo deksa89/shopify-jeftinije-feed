@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs every day at 03:17 UTC
     # Croatia: 04:17 winter time / 05:17 summer time
-    - cron: "17 3 * * *"
+    - cron: "17 */12 * * *"
 
 permissions:
   contents: write
