@@ -235,7 +235,7 @@
 	<price>41.31</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>27</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504078601]]></EAN>
@@ -562,7 +562,7 @@
 	<price>172.72</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>25</quantity>
+	<quantity>24</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460611145]]></EAN>
@@ -2647,7 +2647,7 @@
 	<price>37.15</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>11</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE]]></brand>
 	<EAN><![CDATA[8435565959869]]></EAN>
@@ -2737,7 +2737,7 @@
 	<price>147.93</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027970]]></EAN>
@@ -4059,6 +4059,57 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[lila]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53702752403793]]></ID>
+	<name><![CDATA[LELO Mona 2 Vibrator, ljubičasta]]></name>
+	<description><![CDATA[Može se reći da ovaj predivan vibrator srednje veličine ima obline baš tamo gdje trebaju biti. Zahvaljujući svom ergonomskom obliku, pruža osjećaj intenziteta i punoće koji nadmašuje očekivanja za proizvod ove veličine. Njegovih 6 načina stimulacije dodatno osigurava raznoliko i uzbudljivo iskustvo, tako da istraživanje užitka ostaje zanimljivo i ispunjavajuće iznova i iznova. MONA 2 je osmišljen i za stimulaciju G-točke i klitorisa, na različite i učinkovite načine. Idealan je za one koji žele, bilo solo ili u paru, istražiti svoju senzualnost i uživati u dubljem i intenzivnijem iskustvu. Kao i svi LELO proizvodi za užitak, MONA 2 stvoren je kako bi pružio snažno fizičko zadovoljstvo i osjećaj potpune udobnosti u svakoj situaciji. Izrađen od FDA odobrenog silikona i PC-ABS plastike bez ftalata, MONA 2 pruža do 4 sata gotovo nečujnih vibracija nakon samo 2 sata punjenja. Brzina i intenzitet jednostavno se reguliraju pomoću intuitivnih kontrola, a obje se funkcije mogu u potpunosti zaključati za diskretno nošenje i putovanja. Uz proizvod dolazi elegantna poklon kutija koja uključuje luksuznu satensku vrećicu za pohranu, punjač, korisnički priručnik i punu 1-godišnju LELO garanciju. Nova MONA 2 verzija donosi dodatna poboljšanja u odnosu na prethodni model:. Jedinstveno oblikovan vrh za precizniji doseg G-točke. Dvostruko više snage u svih 6 vibracijskih uzoraka. Poboljšani motori za još snažnije iskustvo. Potpuno vodootporan dizajn za korištenje u kadi ili pod tušem. Punjiv, tih i spreman za putovanja. Funkcija zaključavanja za diskretno nošenje. Materijali sigurni za tijelo i iznimno ugodni na dodir. Izrađen od ultra-mekanog FDA silikona. Vrhunska kvaliteta i 1 godina LELO jamstva. Dimenzije: 20 x 3,5 cm]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/hr/products/lelo-mona-2-vibrator-za-g-tocku?variant=53702752403793]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-mona-2-vibrator-luvmechanics-6641161.jpg?v=1778150724]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-mona-2-vibrator-luvmechanics-3929087.jpg?v=1778150723,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-mona-2-vibrator-luvmechanics-5702594.jpg?v=1778150723,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-mona-2-vibrator-luvmechanics-7272715.jpg?v=1778150722,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-mona-2-vibrator-luvmechanics-1473863.jpg?v=1778150723,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-mona-2-vibrator-luvmechanics-5462754.jpg?v=1778150725]]></moreImages>
+	<price>131.41</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>4</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
+	<brand><![CDATA[LELO]]></brand>
+	<EAN><![CDATA[7350022277625]]></EAN>
+	<productCode><![CDATA[D-195011]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId><![CDATA[10786022195537]]></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[ljubičasta]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[LELO]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-195011]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Boja]]></name>
+			<values>
+				<value><![CDATA[ljubičasta]]></value>
 			</values>
 		</attribute>
 	</attributes>
