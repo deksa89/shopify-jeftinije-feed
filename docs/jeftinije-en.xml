@@ -415,7 +415,7 @@
 	<price>172.72</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460611107]]></EAN>
@@ -976,7 +976,7 @@
 	<price>55.33</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>46</quantity>
+	<quantity>45</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -1727,6 +1727,57 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[Indigo]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53603969597777]]></ID>
+	<name><![CDATA[WOMANIZER Starlet 3 Clitoral Stimulator, Violet]]></name>
+	<description><![CDATA[The new Womanizer Starlet 3 features the original Womanizer combined with five new vivid product colors and two more intensity levels of Pleasure Air stimulation, all while still waterproof and USB rechargeable at a reasonable price. Made for you and your body, the Starlet 3 uses a unique innovation called Pleasure Air Technology. ?Why is it so special? Your clitoris is stimulated without direct contact. Gentle air vibrations suck and massage together to provide an unprecedented orgasmic feeling. The sensual, slim design fits comfortably in your hand and becomes the perfect companion for even the most intimate moments. ?. Explore six different intensity levels for the perfect pleasure for any mood you’re in. Dive deeper with the IPX7 rating, allowing you to bring your Starlet 3 into the bath or shower without fear. Because who doesn’t want to get a little wet during playtime?. Key Features:. Clitoral Stimulator. Pleasure Air Technology. 6 Intensity Levels. Compact. Body-Safe. Waterproof. Vegan-Friendly Production. Magnetic Charging]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/womanizer-starlet-3-clitoral-stimulator-indigo?variant=53603969597777]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-violet-6764161.png?v=1775073049]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-5630955.png?v=1775073049,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-2677986.png?v=1775073052,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-3489636.png?v=1775073050,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-5247508.png?v=1775073050,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-6934391.png?v=1775073047,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-5876618.png?v=1775073052,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-2734135.png?v=1775073050,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/starlet-3-clitoral-stimulator-indigo-4805854.png?v=1775073050]]></moreImages>
+	<price>69.99</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>48</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
+	<brand><![CDATA[WOMANIZER]]></brand>
+	<EAN><![CDATA[4251460616416]]></EAN>
+	<productCode><![CDATA[D-235665]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId><![CDATA[10457814335825]]></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[Violet]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[WOMANIZER]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-235665]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Boja]]></name>
+			<values>
+				<value><![CDATA[Violet]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -2596,7 +2647,7 @@
 	<price>147.93</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027970]]></EAN>
