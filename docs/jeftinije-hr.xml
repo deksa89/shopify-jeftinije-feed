@@ -568,7 +568,7 @@
 	<price>158.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460630665]]></EAN>
@@ -976,7 +976,7 @@
 	<price>66.95</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>42</quantity>
+	<quantity>40</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -2527,7 +2527,7 @@
 	<regularPrice>259.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027840]]></EAN>
@@ -3813,7 +3813,7 @@
 	<regularPrice>98.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029783]]></EAN>
@@ -3850,58 +3850,6 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[ljubičasta]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[53702693880145]]></ID>
-	<name><![CDATA[LELO Liv 3 Stimulator G-Točke, plava]]></name>
-	<description><![CDATA[S veseljem predstavljamo LIV™ 3, naš najnoviji vibrator za G-točku koji se savršeno prilagođava tijelu i osmišljen je kako bi obogatio put samootkrivanja i osobnog užitka. S profinjenim dizajnom i personaliziranim opcijama užitka putem LELO aplikacije, LIV™ 3 odmah privlači pažnju. Elegantno obložen ultra-mekanim silikonom za potpunu udobnost, LIV™ 3 savršeno pristaje različitim anatomijama i omogućuje jednostavan pristup snažnoj stimulaciji G-točke. Uz osam jedinstvenih postavki i redizajniran oblik, ovaj vibrator pruža duboke i precizne masažne pokrete za intenzivno i ispunjavajuće iskustvo. Povezivanjem uređaja LIV™ 3 s LELO aplikacijom putem Bluetootha otključavaju se dva dodatna načina rada, čime dobivate još prilagodljivije iskustvo prilagođeno vlastitim željama. Proizvod je tvornički postavljen na automatsko isključivanje nakon 20 minuta, a to se vrijeme može jednostavno prilagoditi putem aplikacije. ZNAČAJKE:. Materijali: biokompatibilni silikon i ABS plastika. Završna obrada: glatka. Dimenzije: 169 x 35 x 42 mm. Umetljiva duljina: 100 mm. Težina: 93 g. Baterija: Li-ion 420 mAh 3.7 V. Punjenje: do 2 sata pri 5 V 420 mA. Nazivna snaga: Ulaz: 5 V 420 mA 2.1 W. Izlaz: 3.7 V 600 mA 2.22 W. Vrijeme korištenja: do 2 sata. Vrijeme mirovanja: 90 dana. Frekvencija: 100 Hz. Maksimalna razina buke: < 60 dB. Sučelje: 3 tipke]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/lelo-liv-3-vibrator-za-g-tocku?variant=53702693880145]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-1814641.jpg?v=1778150726]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-9566765.jpg?v=1778150724,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-4524235.jpg?v=1778150726,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-3437200.jpg?v=1778150727,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-5882339.jpg?v=1778150727]]></moreImages>
-	<price>84.14</price>
-	<regularPrice>98.99</regularPrice>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>4</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075029776]]></EAN>
-	<productCode><![CDATA[D-241849]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId><![CDATA[10786020229457]]></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[plava]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-241849]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Boja]]></name>
-			<values>
-				<value><![CDATA[plava]]></value>
 			</values>
 		</attribute>
 	</attributes>
