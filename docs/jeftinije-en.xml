@@ -190,7 +190,7 @@
 	<price>51.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>50</quantity>
+	<quantity>45</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504001999]]></EAN>
@@ -1164,7 +1164,7 @@
 	<price>62.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>25</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532336955]]></EAN>
@@ -1525,7 +1525,7 @@
 	<price>53.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>25</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532337006]]></EAN>
@@ -2091,7 +2091,7 @@
 	<regularPrice>108.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>21</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027895]]></EAN>
@@ -2868,52 +2868,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-229369]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[53698748514641]]></ID>
-	<name><![CDATA[LELO Ina 3 Rabbit Luxury Vibrator]]></name>
-	<description><![CDATA[INA™ 3 is back stronger than ever: your favorite rampant bunny has a new look. Explore your body with this beautiful dual-action massager, which has 30% more power, a greater range of intensities and no less than ten different vibration settings that will stimulate your G-spot and clitoris like never before. Get intimate with yourself and your body and watch as you discover a new, deeper balance. GREATER RANGE OF INTENSITIES We have increased the range of intensities to 10 because we know that satisfaction has no limits. EXTRA POWER 30% more power for more intense and deeper vibrations. LONGER LASTING BATTERY With a longer lasting battery so you can enjoy hours and hours of pleasure. RECHARGEABLE more powerful, quieter 10. VERSATILE VIBRATION MODES from gentle hum to extreme vibration. DESIGNED FOR YOUR PLEASURE double action: releases the G Spot and facilitates 100% clitoral orgasm. SUBMERSIBLE perfect for the bath and shower. LONG-TERM CHARGE more pleasure, for longer. ULTRA-SOFT SILICONE High-quality silicone that is ultra-soft to the touch. We have improved the acclaimed rampant bunny. Made with the softest biocompatible silicone and in three stunning new colors, INA™ 3 is the perfect dual-action massager that will give you a happy ending. With ten exquisite vibration modes, internal G-spot stimulation and external clitoral stimulation, enjoy stimulating power and release all your pent-up inhibitions. Materials: biocompatible silicone, ABS. Size: 200 x 65 x 45mm. Insertable length: 110mm. Weight: 150g. Battery: Li-lon 520mA 3.7V. Charge: 2 h at 5.0V 500mAh. Use time: up to 2 hours. Standby: 90 days. Frequency: 60Hz. Interface: 4 buttons]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/lelo-ina-3-green-rabbit-vibrator-luxury-seaweed?variant=53698748514641]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-ina-3-rabbit-luxury-vibrator-luvmechanics-2919833.jpg?v=1778150726]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-ina-3-rabbit-luxury-vibrator-luvmechanics-5178372.jpg?v=1778150726,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-ina-3-rabbit-luxury-vibrator-luvmechanics-1961736.jpg?v=1778150727,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-ina-3-rabbit-luxury-vibrator-luvmechanics-6009198.jpg?v=1778150727,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-ina-3-rabbit-luxury-vibrator-luvmechanics-4463843.jpg?v=1778150726]]></moreImages>
-	<price>152.14</price>
-	<regularPrice>178.99</regularPrice>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075028304]]></EAN>
-	<productCode><![CDATA[D-229372]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-229372]]></value>
 			</values>
 		</attribute>
 		<attribute>
