@@ -1217,7 +1217,7 @@
 	<price>77.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>16</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504051864]]></EAN>
@@ -1628,7 +1628,7 @@
 	<regularPrice>159.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075028939]]></EAN>
@@ -2142,7 +2142,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>12</quantity>
+	<quantity>28</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616416]]></EAN>
@@ -4969,7 +4969,7 @@
 	<price>26.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>46</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE]]></brand>
 	<EAN><![CDATA[8435565961169]]></EAN>
@@ -5014,7 +5014,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -5553,7 +5553,7 @@
 	<price>89.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>33</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961305]]></EAN>
@@ -5688,7 +5688,7 @@
 	<price>98.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[ELECTRASTIM]]></brand>
 	<EAN><![CDATA[0609224032684]]></EAN>
@@ -5823,7 +5823,7 @@
 	<price>215.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350167260346]]></EAN>
@@ -6648,7 +6648,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>45</quantity>
+	<quantity>44</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[INTT LUBRICANTS]]></brand>
 	<EAN><![CDATA[5600781416271]]></EAN>
@@ -6761,6 +6761,51 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-245255]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267585921361]]></ID>
+	<name><![CDATA[DUREX LUBES Durex Play Natural H2O Lubricant 50 Ml]]></name>
+	<description><![CDATA[Play Original provides a sensation of softness, creating a sensual experience for you and your partner. It contains a special formula for a better sensation in your sexual relations. Available in 50ML format. Play Original is water soluble and easy to wash. Furthermore, it is not sticky and does not stain]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/hr/products/durex-durex-play-natural-h2o-lubricant-50-ml-1?variant=54267585921361]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_150731_d05f21cf27d699497cda1ee00eb58eff_1.jpg?v=1783543274]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_134944_615ff9cf8888cb9809c6af04e0f9721e_1.jpg?v=1783543274]]></moreImages>
+	<price>8.99</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>50</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[DUREX LUBES]]></brand>
+	<EAN><![CDATA[5052197040364]]></EAN>
+	<productCode><![CDATA[D63-194152]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[DUREX LUBES]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D63-194152]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -7002,7 +7047,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>19</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542688]]></EAN>
@@ -7311,7 +7356,7 @@
 	<price>17.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<productCode><![CDATA[D-241698]]></productCode>
@@ -7354,7 +7399,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221346216]]></EAN>
