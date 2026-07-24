@@ -585,7 +585,7 @@
 	<price>107.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[KIIROO]]></brand>
 	<EAN><![CDATA[8720938956355]]></EAN>
@@ -1783,7 +1783,7 @@
 	<regularPrice>248.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029677]]></EAN>
@@ -1872,58 +1872,6 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[Teal]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[53603907731793]]></ID>
-	<name><![CDATA[LELO F1S V3 Male Masturbator, Red]]></name>
-	<description><![CDATA[The F1S™ V3 is an app-connected pleasure console that we've enhanced with advanced features to make your biggest fantasies come true. Now you can find it in a normal size and in a new XL size. This device has eight vibration modes, including the interactive mode with AI that we have just developed. You will be able to access this highly sensitive mode from the LELO app. The F1S™ Made from the finest liquid silicone and featuring self-adjusting grooves, V3 promises a touch of luxury that accentuates any sensation. Its two synchronized motors stimulate the penis and its nerve endings, allowing it to be used without using your hands. FEATURES:. Materials: biocompatible silicone, aluminum alloy, LEXAN™ 141R. Size: 144 x Φ 72mm. Insertable length: 110 mm. Diameter: 40 mm to 60 mm. Weight: 314 g. Battery: Lithium-ion 850 mAh 3.7 V. Charge: 2 h at 5 V 850 mA. Rated power: Input: 5 V 3.75 W. Output: 3.7V 1.5W. Use time: up to 2 hours. Standby: 90 days. Frequency: suction motor: 64 Hz. vibration motor: 93 Hz. Max. level Noise: <75 dB. Interface: 3 buttons]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/lelo-f1s-v3-male-masturbator-red?variant=53603907731793]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/f1s-v3-male-masturbator-red-1265951.jpg?v=1775073084]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/f1s-v3-male-masturbator-red-8081919.jpg?v=1775073083,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/f1s-v3-male-masturbator-red-4460008.jpg?v=1775073082,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/f1s-v3-male-masturbator-red-3898190.jpg?v=1775073084,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/f1s-v3-male-masturbator-red-2394717.jpg?v=1775073083,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/f1s-v3-male-masturbator-teal-7601271.jpg?v=1775073017]]></moreImages>
-	<price>211.64</price>
-	<regularPrice>248.99</regularPrice>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075029622]]></EAN>
-	<productCode><![CDATA[D-240510]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId><![CDATA[10457820332369]]></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[Red]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-240510]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Masturbatori]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Boja]]></name>
-			<values>
-				<value><![CDATA[Red]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -2092,7 +2040,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616409]]></EAN>
@@ -5044,7 +4992,7 @@
 	<price>233.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209263]]></EAN>
@@ -5629,7 +5577,7 @@
 	<price>57.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>47</quantity>
+	<quantity>45</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[FUN FACTORY]]></brand>
 	<EAN><![CDATA[4255821801107]]></EAN>
@@ -6715,7 +6663,7 @@
 	<price>17.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>14</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION BIOGLIDE]]></brand>
 	<EAN><![CDATA[4028403110047]]></EAN>
@@ -7070,7 +7018,7 @@
 	<price>8.06</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223661000]]></EAN>
@@ -7334,7 +7282,7 @@
 	<price>8.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>32</quantity>
+	<quantity>29</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[KIIROO]]></brand>
 	<EAN><![CDATA[8719324994941]]></EAN>
