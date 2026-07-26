@@ -12,7 +12,7 @@ permissions:
 
 concurrency:
   group: jeftinije-xml-feed
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   generate-feeds:
