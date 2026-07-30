@@ -9,7 +9,7 @@
 	<price>22.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>31</quantity>
+	<quantity>29</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075028526]]></EAN>
@@ -234,7 +234,7 @@
 	<price>51.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>22</quantity>
+	<quantity>21</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504001999]]></EAN>
@@ -302,6 +302,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-224035]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[52642839527761]]></ID>
+	<name><![CDATA[PJUR Med Vegan Glide Water Based Lubricant 100 Ml]]></name>
+	<description><![CDATA[Preservative-free water-based lubricant with vegan formulation. With exclusively vegetable ingredients and without any type of animal experimentation. Provides gently additional moisture for long-lasting lubrication and is PH balanced. The formula adapts to sensitive mucous membranes, which tolerate it very well, and does not contain perfume, parabens or glycerin. 100 ml container. Experience Pjur]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/pjur-med-vegan-glide-water-based-lubricant-100-ml?variant=52642839527761]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/med-vegan-glide-water-based-lubricant-100-ml-5296546.jpg?v=1775073135]]></mainImage>
+	<price>16.16</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>16</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[PJUR]]></brand>
+	<EAN><![CDATA[0827160111373]]></EAN>
+	<productCode><![CDATA[D-230660]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[PJUR]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-230660]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -1230,7 +1274,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>50</quantity>
+	<quantity>36</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -1694,7 +1738,7 @@
 	<regularPrice>248.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029639]]></EAN>
@@ -2719,7 +2763,7 @@
 	<price>40.46</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>16</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE]]></brand>
 	<EAN><![CDATA[8435565959869]]></EAN>
@@ -3347,7 +3391,7 @@
 	<price>49.50</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SNAIL VIBE]]></brand>
 	<EAN><![CDATA[8720615765683]]></EAN>
@@ -4381,7 +4425,7 @@
 	<price>24.29</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<EAN><![CDATA[0811041015867]]></EAN>
@@ -5433,7 +5477,7 @@
 	<price>31.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<productCode><![CDATA[D-245855]]></productCode>
@@ -5533,7 +5577,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>36</quantity>
+	<quantity>35</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -5879,6 +5923,50 @@
 	</attributes>
 </Item>
 <Item>
+	<ID><![CDATA[54267394163025]]></ID>
+	<name><![CDATA[PJUR Woman Nude Water-Based Lubricant 100 Ml]]></name>
+	<description><![CDATA[Pjur Woman Nude is designed for allergy sufferers who want and need a lubricant without additives but retaining all the properties!. Living more consciously and sustainably is in fashion. The pjur Woman Nude water-based neutral lubricant takes this trend into account and is therefore preservative-free. It does not contain glycerin, parabens, or preservatives. Of course, this does not affect the premium quality and, like all pjur products, it does not contain oils, fats or perfume. Pjur Woman Nude has been specially designed for women's delicate and sensitive skin, being a product completely free of odors and flavors. Without glycerin, without parabens and without preservatives. Designed especially for the delicate and sensitive skin of conscious women. Conditions and protects the skin without becoming sticky. Pjur ® is a world leader in the manufacture of anal and vaginal lubricants, as well as delayants and enhancers, they are long-lasting, their reliability and durability is a benchmark in the sector. 100 ml container]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/pjur-woman-nude-water-based-lubricant-100-ml?variant=54267394163025]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_184199_637808ae41dd2d0479d0affa5f1369ee_1.jpg?v=1783542590]]></mainImage>
+	<price>14.36</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>50</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[PJUR]]></brand>
+	<EAN><![CDATA[0827160110185]]></EAN>
+	<productCode><![CDATA[D-230654]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[PJUR]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-230654]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
 	<ID><![CDATA[54267435647313]]></ID>
 	<name><![CDATA[PJUR Med Sensitive Glide Water Based Lubricant 100 Ml]]></name>
 	<description><![CDATA[Water-based lubricant without glycerin or parabens for a sensitive experience. It is specially formulated for very sensitive mucous membranes in the genital area. Glycerin, parabens and preservatives have been eliminated in order to make the formulation as neutral as possible, thus ensuring maximum compatibility with mucous membranes. 100 ml container. Experience Pjur]]></description>
@@ -5912,6 +6000,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-230658]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267436925265]]></ID>
+	<name><![CDATA[PJUR Woman Aloe Water-Based Lubricant 100 Ml]]></name>
+	<description><![CDATA[An extra boost for women's bodies: pjur WOMAN Aloe is a water-based personal lubricant with the natural ingredient aloe vera. It gives you more pleasure and takes better care of female skin. The aloe vera plant is 99 percent water, which it stores as a clear gel in its leaves. This gives the extract its moisturizing effect and helps increase skin elasticity. pjur WOMAN Aloe adapts to the natural female pH balance and is dermatologically confirmed. pjur products are also free of parabens and paraffins for added peace of mind. This product is suitable for use with condoms and all sex toys. Without glycerin, without parabens and without preservatives. Designed especially for the delicate and sensitive skin of conscious women. Conditions and protects the skin without becoming sticky. Pjur ® is a world leader in the manufacture of anal and vaginal lubricants, as well as delayants and enhancers, they are long-lasting, their reliability and durability is a benchmark in the sector. 100 ml container]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/pjur-woman-aloe-water-based-lubricant-100-ml?variant=54267436925265]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_184196_2253def1462da2bbe0e1ee5da12a2bb0_1.jpg?v=1783542858]]></mainImage>
+	<price>14.36</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>50</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[PJUR]]></brand>
+	<EAN><![CDATA[0827160113162]]></EAN>
+	<productCode><![CDATA[D-230670]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[PJUR]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-230670]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -6328,7 +6460,7 @@
 	<price>17.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION BIOGLIDE]]></brand>
 	<EAN><![CDATA[4028403110047]]></EAN>
@@ -6991,7 +7123,7 @@
 	<price>5.85</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>21</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221821287]]></EAN>
