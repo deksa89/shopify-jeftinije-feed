@@ -1274,7 +1274,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>34</quantity>
+	<quantity>33</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -1378,7 +1378,7 @@
 	<regularPrice>198.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>14</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029646]]></EAN>
@@ -1582,7 +1582,7 @@
 	<price>53.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504018362]]></EAN>
@@ -5577,7 +5577,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>35</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -6416,7 +6416,7 @@
 	<price>10.79</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[DUREX LUBES]]></brand>
 	<EAN><![CDATA[8410104881832]]></EAN>
@@ -6441,50 +6441,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-211758]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267633336657]]></ID>
-	<name><![CDATA[JOYDIVISION BIOGLIDE Natural Lubricant 150 Ml]]></name>
-	<description><![CDATA[JOYDIVISION has many years of experience as Europe’s leading manufacturer of lubricants. It was therefore very important to the company to develop for the market a product characterised by its exceptionally skin-friendly properties. And with BIOglide, this aim has become reality! BIOglide meets the highest quality standards and is extremely skin-friendly, which means it can be used for unlimited periods of time. This is a particular benefit to people who like to use lubricants frequently during lovemaking, or who require long-term use of lubricants to be able to enjoy pain-free lovemaking. Some people use Vaseline or baby oils as lubricants, for example. Such products are wholly unsuitable for this purpose, as they were not made for vaginal application, and because ingredients such as oils and fats contained in these products destroy the material used in latex condoms, making them unsafe. Our tip: you are better off using BIOglide – for organic (and orgasmic) sexual pleasure!. The many advantages of BIOglide:. 100% organic. is highly effective, with a little going a long way. approved as a medical-grade product. suitable for use with condoms. subject to constant quality control. water-soluble and fat-free. dermatologically and clinically tested. also suitable for oral intercourse. exceptionally skin-friendly. pH-optimised. features uniquely long-lasting lubricating properties. MADE IN GERMANY. Amount: 150 ml]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/bioglide-natural-lubricant-150-ml?variant=54267633336657]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_56682_202a5a24aa435aa9fb031600bd8334aa_1.jpg?v=1783543437]]></mainImage>
-	<price>17.99</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>5</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[JOYDIVISION BIOGLIDE]]></brand>
-	<EAN><![CDATA[4028403110047]]></EAN>
-	<productCode><![CDATA[D-213899]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[JOYDIVISION BIOGLIDE]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-213899]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -6549,7 +6505,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>14</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542688]]></EAN>
@@ -6771,7 +6727,7 @@
 	<price>6.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>29</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS CLASSIC LINE]]></brand>
 	<EAN><![CDATA[4035223660508]]></EAN>
@@ -6815,7 +6771,7 @@
 	<price>8.06</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>14</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223661000]]></EAN>
@@ -6903,7 +6859,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[SHUNGA BATH EXPERIENCE]]></brand>
 	<productCode><![CDATA[D-237770]]></productCode>
