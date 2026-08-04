@@ -9,7 +9,7 @@
 	<price>22.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>29</quantity>
+	<quantity>31</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075028526]]></EAN>
@@ -234,7 +234,7 @@
 	<price>51.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504001999]]></EAN>
@@ -494,7 +494,7 @@
 	<price>10.76</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223770832]]></EAN>
@@ -2032,7 +2032,7 @@
 	<price>53.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>22</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532337006]]></EAN>
@@ -2441,7 +2441,7 @@
 	<regularPrice>189.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075028670]]></EAN>
@@ -3389,7 +3389,7 @@
 	<regularPrice>158.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075021350]]></EAN>
@@ -4514,7 +4514,7 @@
 	<price>24.29</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>39</quantity>
+	<quantity>38</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<EAN><![CDATA[0811041015850]]></EAN>
@@ -5848,7 +5848,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>35</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<productCode><![CDATA[D-245719]]></productCode>
@@ -5898,7 +5898,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<productCode><![CDATA[D-245716]]></productCode>
@@ -6048,7 +6048,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>31</quantity>
+	<quantity>29</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -6843,7 +6843,7 @@
 	<price>8.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>30</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION BIOGLIDE]]></brand>
 	<EAN><![CDATA[4028403110023]]></EAN>
@@ -6912,6 +6912,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-211758]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267633336657]]></ID>
+	<name><![CDATA[JOYDIVISION BIOGLIDE Natural Lubricant 150 Ml]]></name>
+	<description><![CDATA[JOYDIVISION has many years of experience as Europe’s leading manufacturer of lubricants. It was therefore very important to the company to develop for the market a product characterised by its exceptionally skin-friendly properties. And with BIOglide, this aim has become reality! BIOglide meets the highest quality standards and is extremely skin-friendly, which means it can be used for unlimited periods of time. This is a particular benefit to people who like to use lubricants frequently during lovemaking, or who require long-term use of lubricants to be able to enjoy pain-free lovemaking. Some people use Vaseline or baby oils as lubricants, for example. Such products are wholly unsuitable for this purpose, as they were not made for vaginal application, and because ingredients such as oils and fats contained in these products destroy the material used in latex condoms, making them unsafe. Our tip: you are better off using BIOglide – for organic (and orgasmic) sexual pleasure!. The many advantages of BIOglide:. 100% organic. is highly effective, with a little going a long way. approved as a medical-grade product. suitable for use with condoms. subject to constant quality control. water-soluble and fat-free. dermatologically and clinically tested. also suitable for oral intercourse. exceptionally skin-friendly. pH-optimised. features uniquely long-lasting lubricating properties. MADE IN GERMANY. Amount: 150 ml]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/bioglide-natural-lubricant-150-ml?variant=54267633336657]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_56682_202a5a24aa435aa9fb031600bd8334aa_1.jpg?v=1783543437]]></mainImage>
+	<price>17.99</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>50</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[JOYDIVISION BIOGLIDE]]></brand>
+	<EAN><![CDATA[4028403110047]]></EAN>
+	<productCode><![CDATA[D-213899]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[JOYDIVISION BIOGLIDE]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-213899]]></value>
 			</values>
 		</attribute>
 		<attribute>
