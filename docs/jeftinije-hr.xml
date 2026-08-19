@@ -719,7 +719,7 @@
 	<price>224.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>14</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[KIIROO]]></brand>
 	<EAN><![CDATA[8720938956348]]></EAN>
@@ -1319,7 +1319,7 @@
 	<price>77.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>34</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504051840]]></EAN>
@@ -1472,7 +1472,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -2295,7 +2295,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616416]]></EAN>
@@ -2916,7 +2916,7 @@
 	<regularPrice>139.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271821]]></EAN>
@@ -3287,52 +3287,6 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[ružičasta]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[53698719154513]]></ID>
-	<name><![CDATA[LELO Smart Wand 2]]></name>
-	<description><![CDATA[NAJSNAŽNIJA STIMULACIJA I NAJOPUŠTAJUĆA MASAŽA. Kada stres nestane uz jedan od najpoželjnijih masažera za cijelo tijelo, vrijeme je da otkrijete sve što njegovih 10 načina vibracije može pružiti vašim erogenim zonama. Uživajte u satima masaže i užitka uz samo jedno punjenje. Materijal: silikon, PC, ABS Dimenzije: 304 x 80 x 60 mm Težina: 383 g Baterija: Li-Ion 1200/1050 mA 3.7 V Punjenje: 2,5 h pri 5.0 V 750 mA. KARAKTERISTIKE. DUGOTRAJNA BATERIJA Do 4 sata korištenja po punjenju i 10 načina vibracije za potpuno iskustvo masaže. ELEGANTAN DIZAJN I IZNIMNA SNAGA Jednostavan za korištenje, s intenzitetom koji može biti nježan ili izrazito snažan, ovisno o vašim željama. IZNIMNO MEKAN SILIKON Izrađen od ekstra mekanog i biokompatibilnog premium silikona. POTPUNO VODOOTPORAN I USB PUNJIV Idealan za korištenje u kadi ili pod tušem te praktičan za ponijeti gdje god poželite. Vrijeme rada: do 4 sata Vrijeme mirovanja: 90 dana Frekvencija: 80 Hz Sučelje: 3 tipke]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/lelo-smart-wand-2?variant=53698719154513]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-smart-wand-2-luvmechanics-6938913.jpg?v=1778150712]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-smart-wand-2-luvmechanics-8384072.jpg?v=1778150711,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-smart-wand-2-luvmechanics-4418174.jpg?v=1778150712]]></moreImages>
-	<price>169.14</price>
-	<regularPrice>198.99</regularPrice>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075027789]]></EAN>
-	<productCode><![CDATA[D-222676]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-222676]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -4811,7 +4765,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>40</quantity>
+	<quantity>39</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460632300]]></EAN>
@@ -5711,7 +5665,7 @@
 	<price>44.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[JAMYJOB]]></brand>
 	<EAN><![CDATA[8435565961091]]></EAN>
@@ -5978,56 +5932,6 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[ljubičasta]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54249359016273]]></ID>
-	<name><![CDATA[WOMANIZER Pro Vibrant Stimulator Klitorisa, lila]]></name>
-	<description><![CDATA[Air stimulator with contactless technology for a refined and modern experience. This device is designed to offer deep clitoral stimulation through gentle air pressure waves, allowing you to enjoy intense and pleasurable sensations without direct contact. Pleasure Air Technology - Innovative patented technology that uses air pulses to massage the clitoris. It provides a luxurious sensation of increasing tension, allowing you to discover pleasure in a personalized and unique way through a subtle massage effect. 11 Intensity Levels - Fully customizable to your liking. Whether you prefer a soft and sensual start or are looking for more powerful and intense stimulation, you can easily switch between settings thanks to its intuitive controls designed for total focus on the moment. IPX7 Waterproof - Its watertight design allows you to enjoy relaxing moments in the shower or bath, ensuring nothing prevents you from enjoying a long, refreshing soak. Easy to clean - The stimulation head is elongated and detachable, ensuring simple, quick, and hygienic maintenance. All you need is a toy cleaner or warm water and antibacterial soap. Premium design - It's lightweight, compact, and features a sleek design. Made with body-safe silicone and plastic, it ensures a pleasant, safe, and silky feel against the skin. Rechargeable and ready for long sessions - Equipped with a magnetic USB charging system, it offers up to 240 minutes of runtime, giving you all the time you need to relax and enjoy without interruption. FEATURES. Lilac. IPX7 Waterproof. Runtime: 240 minutes. Materials: Body-safe silicone and ABS. Charging: Magnetic USB. Package includes:. Contactless air stimulator. Extra stimulation head. Quick start guide. USB cable with magnetic charging pins (AC adapter not included)]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/womanizer-pro-vibrant-clitoral-stimulator-lilac?variant=54249359016273]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224319_5cc248bfd6cd23a014ba6a94ddd78502_1_c9082e95-c592-4b11-8c91-38ad89c06709.png?v=1781911010]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224313_7140d0a146023fd0fa80d232bd8ff74f_1_49d39a15-aaee-4836-8426-1241eb9ac9ea.png?v=1781911010,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224314_405835066b1fdbc6c8be43932923c801_1_174845cc-dc4b-42f8-b8da-eb1fd44353ca.png?v=1781911010,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224315_cae37ebe2b4b3438a64b95c3c892561e_1_2e692297-7bca-4522-bc7e-4cc5599e8fd0.png?v=1781911010,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224316_66e8df13faa6d099606cfc7b40291f85_1_366dd234-1e45-4969-9dd4-c25e97719285.png?v=1781911010,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224317_2c2116e790523f11039be72e4bb42a7d_1_da34f4d1-e64b-4f9a-936a-4dd3ee8d88f3.png?v=1781911009,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_224318_5c2eab28ca9ffc021be34f58032b327c_1_d365c45f-9c8b-4ca5-9fad-525f409da7db.png?v=1781911010]]></moreImages>
-	<price>62.09</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[WOMANIZER]]></brand>
-	<productCode><![CDATA[D-245719]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId><![CDATA[10889254797649]]></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[lila]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[WOMANIZER]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-245719]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Boja]]></name>
-			<values>
-				<value><![CDATA[lila]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -6540,7 +6444,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160110185]]></EAN>
@@ -6982,7 +6886,7 @@
 	<price>10.79</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>22</quantity>
+	<quantity>21</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[DUREX LUBES]]></brand>
 	<EAN><![CDATA[8410104881832]]></EAN>
@@ -7534,6 +7438,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-241698]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267658404177]]></ID>
+	<name><![CDATA[STIMUL8 Hygienic Toy Cleaner 150 Ml]]></name>
+	<description><![CDATA[Keep your intimate toys fresh and clean with the S8 Hygienic Toycleaner – offering powerful, antimicrobial protection you can trust. This top-quality cleaner ensures that your favorite toys are ready for use anytime with just a simple spray before and after use. Made with safe and effective ingredients, the S8 Hygienic Toycleaner not only keeps your toys in great condition but provides advanced hygiene care that’s perfect for maintaining your pleasure products. An essential add-on for any toy purchase!. Specifications. Product dimensions 150 ml. Total length 16.5 cm. Shelf life after opening 3M. Ingredients:. Aqua, Propylene Glycol, Hexamidine Diisethionate, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Panthenol. This S8 line of intimate care essentials combines premium quality formulas with a price affordable to all, making it an amazing value-for-money choice in erotic wellness. S8 is designed to heighten pleasure and enhance intimacy in a natural, body-safe way. The S8 collection offers something for every preference. From water-based, silicone-based, flavored and hybrid lubricants; to toy cleaner and arousal gels: S8 has it all. The appeal of S8 drugstore is as ‘natural’ as possible, mimicking natural lubrication and keeping the formulas clean of any unnecessary chemicals. The products do not contain harsh preservatives and are paraben-free, phthalate-free, and gluten-free - all mentioned clearly on the transparent packaging of the lubricants. S8 adheres to all European standards and regulations for intimate care products and offers a trustworthy, body-safe and indulgent experience for all lovers of intimate pleasure]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/hr/products/stimul8-hygienic-toy-cleaner-150-ml?variant=54267658404177]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_208703_d908c37f55d039a15e7636685ee02b67_1.jpg?v=1783544551]]></mainImage>
+	<price>8.99</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>50</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[STIMUL8]]></brand>
+	<EAN><![CDATA[8713221346216]]></EAN>
+	<productCode><![CDATA[D-243698]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[STIMUL8]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-243698]]></value>
 			</values>
 		</attribute>
 		<attribute>
