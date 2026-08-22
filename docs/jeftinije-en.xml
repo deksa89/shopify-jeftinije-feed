@@ -99,7 +99,7 @@
 	<price>148.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>16</quantity>
+	<quantity>15</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209362]]></EAN>
@@ -451,7 +451,7 @@
 	<price>12.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>27</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[ID GLIDE]]></brand>
 	<productCode><![CDATA[D-201405]]></productCode>
@@ -1268,7 +1268,7 @@
 	<price>77.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504051840]]></EAN>
@@ -2040,7 +2040,7 @@
 	<price>53.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>22</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532337006]]></EAN>
@@ -2295,7 +2295,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>16</quantity>
+	<quantity>21</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616393]]></EAN>
@@ -5427,7 +5427,7 @@
 	<price>89.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961305]]></EAN>
@@ -5472,7 +5472,7 @@
 	<price>67.46</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>27</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961312]]></EAN>
@@ -6038,7 +6038,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>16</quantity>
+	<quantity>15</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -6328,6 +6328,51 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-210392]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267393474897]]></ID>
+	<name><![CDATA[SWEDE Original Lubricant Woman Sensitive 120 Ml]]></name>
+	<description><![CDATA[Woman Sensitive is based on Swede’s innovative water-based Aqua Comfort formula. But here Swede has also added several natural active substances which have nourishing effects in the vaginal area and help to prevent irritations and discomfort. Aloe Vera: Swede has added generous amounts of Aloe Vera. The healing power of Aloe Vera is well known around the world, but it also contains high levels of Glycoproteins - the structural component of natural vaginal fluid. Flax Seed Extract: Swede has added Flax seed extract which contains a high level of mucins and therefore has a very positive effect on the sensitive vaginal and anal mucous membranes. Flax seed extract is also a powerful antioxidant which is beneficial to the soft tissues. Chamomile Extract: is an anti-allergenic agent, with irritation-relieving effects. It also has anti-inflammatory and antiseptic properties. Piroctone Olamine: is an active fungicide that helps to prevent vaginal yeast infections. Long-lasting and non-sticky. Glycerine & Paraben-free. Propylene Glycol-free. Natural active ingredients. Low irritation risk. pH-balanced. Easy to rinse off with water. Leaves no residue. Condom-safe. 120 ml]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/swede-original-lubricant-woman-sensitive-120-ml?variant=54267393474897]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_44813_91bb647a011bc46f94a96449eb53dccb_1.jpg?v=1783542439]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_44812_984760796b56f5507430f7fa8ecb4226_1.jpg?v=1783542439]]></moreImages>
+	<price>13.49</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>21</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[SWEDE]]></brand>
+	<EAN><![CDATA[7350028782222]]></EAN>
+	<productCode><![CDATA[D-210394]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[SWEDE]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-210394]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -6655,7 +6700,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>17</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[INTT LUBRICANTS]]></brand>
 	<EAN><![CDATA[5600781416271]]></EAN>
