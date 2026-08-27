@@ -494,7 +494,7 @@
 	<price>10.76</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223770832]]></EAN>
@@ -764,7 +764,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>50</quantity>
+	<quantity>45</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4049369016525]]></EAN>
@@ -809,7 +809,7 @@
 	<price>188.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460611107]]></EAN>
@@ -3267,7 +3267,7 @@
 	<price>35.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>50</quantity>
+	<quantity>31</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961107]]></EAN>
@@ -4834,7 +4834,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>17</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532364101]]></EAN>
@@ -5014,7 +5014,7 @@
 	<price>89.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961305]]></EAN>
@@ -5978,7 +5978,7 @@
 	<price>16.16</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>50</quantity>
+	<quantity>49</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160111137]]></EAN>
@@ -6066,7 +6066,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>30</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113155]]></EAN>
@@ -6179,6 +6179,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-234934]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267540799825]]></ID>
+	<name><![CDATA[INTT LUBRICANTS My Lube Intimate Water-Based Lubricant Natural]]></name>
+	<description><![CDATA[My Lube is a water-based intimate gel, neutral and odorless, completely natural composition. Compatible with all skin types, condoms and sex toys. Instructions for use:. Apply the desired amount to any part of the body to improve lubrication. Precautions:. Keep away from light and heat and out of reach of children. In case of irritation, discontinue use and seek medical advice. EXTERNAL USE. Characteristics:. My Lube comes contained in a 100ml container. All natural. Prevents cracks. Reduces friction. Increases sexual pleasure]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/intt-lubricants-my-lube-intimate-water-based-lubricant-natural?variant=54267540799825]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_183880_ada8394ab42b8ab13851663d9ba11087_1.jpg?v=1783543128]]></mainImage>
+	<price>8.99</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>14</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[INTT LUBRICANTS]]></brand>
+	<EAN><![CDATA[5600781416271]]></EAN>
+	<productCode><![CDATA[D-241200]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[INTT LUBRICANTS]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-241200]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -6332,7 +6376,7 @@
 	<price>10.79</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[DUREX LUBES]]></brand>
 	<EAN><![CDATA[8410104881832]]></EAN>
@@ -6376,7 +6420,7 @@
 	<price>17.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION BIOGLIDE]]></brand>
 	<EAN><![CDATA[4028403110047]]></EAN>
@@ -6508,7 +6552,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>28</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542688]]></EAN>
@@ -6685,7 +6729,7 @@
 	<price>6.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>19</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS CLASSIC LINE]]></brand>
 	<EAN><![CDATA[4035223660508]]></EAN>
@@ -6710,6 +6754,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-220526]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267649950033]]></ID>
+	<name><![CDATA[EROS All Purpose Toy Cleaner 100 Ml]]></name>
+	<description><![CDATA[Thanks to its alcohol-free composition, this hygienic cleaning spray is ideal for gently cleaning and caring for erotic toys with sensitive surfaces. Regular cleaning prolongs their life. EROS All Purpose Toy Cleaner is an extremely effective cleaner that does not have an unpleasant smell of alcohol. Directions for use:. For hygienic cleaning, rub your hands /the objects with 3 ml of Eros All Purpose Toy Cleaner for 60 seconds. While clieanig, make sure your hands /the objects are kepet moist with this product. Amount: 100 ml]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/eros-all-purpose-toy-cleaner-100-ml?variant=54267649950033]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_75249_e311bbb4afd02ee0e25110f931ad45bf_1.jpg?v=1783544028]]></mainImage>
+	<price>8.06</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>20</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[EROS]]></brand>
+	<EAN><![CDATA[4035223661000]]></EAN>
+	<productCode><![CDATA[D-220527]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[EROS]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-220527]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -7037,7 +7125,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[ADRIEN LASTIC]]></brand>
 	<EAN><![CDATA[8433345610016]]></EAN>
@@ -7062,6 +7150,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-237076]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267664400721]]></ID>
+	<name><![CDATA[FEMINTIMATE Antibacterial Toy Cleaner Spray 150 Ml]]></name>
+	<description><![CDATA[The Feminitimate brand, a specialist in female intimacy, offers its antibacterial sex toy cleaner to ensure the cleanliness of your intimate toys and extend their useful life. By keeping the sex toy clean you manage to avoid diseases, in addition, you prevent the toy from deteriorating prematurely. The Femintimate Cleaning Spray is the best solution for the maintenance of your Femintimate products and all sex toys in general. It is very important to keep your sex toys clean and bacteria-free if you want them to work as long as they are supposed to. Well, good sex toy hygiene is as important for you as it is for the toy. It is as simple as applying the amount of Femintimate Cleaning Spray that you think is necessary to the toy and with a little warm water rub the toy with your hands. Once you see that the smell If the toy is nice and has no stains, it means it is clean. completely clean, so that rinse and let dry. It will be ready to store or… For a second round!. FEATURES:. Hygienic cleaner for sex toys. Water-based cleaner. Odorless, colorless, does not stain. Alcohol-free. Spray bottle. Capacity: 150 ml]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/femintimate-antibacterial-toy-cleaner-spray-150-ml?variant=54267664400721]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_158749_202f23544cb8fe15a62ac7fd339488d6_1.jpg?v=1783544835]]></mainImage>
+	<price>9.90</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>6</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[FEMINTIMATE]]></brand>
+	<EAN><![CDATA[8433345620015]]></EAN>
+	<productCode><![CDATA[D-237100]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[FEMINTIMATE]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-237100]]></value>
 			</values>
 		</attribute>
 		<attribute>
