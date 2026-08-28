@@ -494,7 +494,7 @@
 	<price>10.76</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223770832]]></EAN>
@@ -764,7 +764,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>35</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4049369016525]]></EAN>
@@ -1203,6 +1203,57 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[Raspberry]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53603512353105]]></ID>
+	<name><![CDATA[SATISFYER Pro 2 Air Pulse Tech Vibrator, Wine red]]></name>
+	<description><![CDATA[Pro 2 Generation 3 najnovije je izdanje našeg kultnog Air Pulse uređaja za užitak, sada dodatno obogaćeno vibracijom i inovativnom Liquid Air tehnologijom koja stvara osjećaj nalik senzualnom pulsu vode. Uz glatku, svilenkastu silikonsku površinu i otežani vrh za ergonomskije rukovanje, Pro 2 Gen 3 pruža intenzivne orgazme koje već poznajete i volite. Sada donosi i dodatni osjećaj nježnog titranja, dok valovi zračnog pritiska stimuliraju klitoris kroz tanku zaštitnu membranu. Model s Bluetooth povezivanjem može se upariti s nagrađivanom i besplatnom aplikacijom Satisfyer Connect, što vam omogućuje potpunu kontrolu nad snažnim motorom i još detaljnije prilagođavanje užitka vlastitim željama. Naravno, uređaj možete koristiti i bez aplikacije, jednostavno pomoću tipki na samom uređaju, uz izbor od 11 razina valova pritiska i 12 vibracijskih programa. Pro 2 Gen 3 Connect App izrađen je od body-safe silikona, punjiv je i vodootporan prema IPX7 standardu. Prepustite se naletu užitka. Značajke proizvoda. stimulira klitoris intenzivnim valovima pritiska bez izravnog dodira. izrađen od ultra mekanog, body-safe medicinskog silikona. glatka i higijenska površina ugodna na dodir. vodootporan prema IPX7 standardu. siguran za korištenje u vodi i jednostavan za čišćenje. 2 zasebno upravljiva motora. 11 razina intenziteta valova pritiska. 12 vibracijskih opcija. whisper način rada za tiše korištenje. punjiva Li-ion baterija. magnetski USB kabel za punjenje uključen. jednostavno održavanje. 15 godina jamstva]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/hr/products/satisfyer-pro-2-generacion-3-stimulator?variant=53603512353105]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-wine-red-1605794.jpg?v=1775073137]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-3955949.png?v=1775073077,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-3403271.jpg?v=1775073077,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-9401202.jpg?v=1775073079,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-1164851.jpg?v=1775073076,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-8121907.jpg?v=1775073077,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-7894671.jpg?v=1775073079,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/pro-2-generacion-3-lilac-8742681.jpg?v=1775073078]]></moreImages>
+	<price>77.36</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>12</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
+	<brand><![CDATA[SATISFYER]]></brand>
+	<EAN><![CDATA[4061504051840]]></EAN>
+	<productCode><![CDATA[D-234323]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId><![CDATA[10684182561105]]></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[Wine red]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[SATISFYER]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-234323]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Boja]]></name>
+			<values>
+				<value><![CDATA[Wine red]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -6154,7 +6205,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>48</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113834]]></EAN>
@@ -6860,7 +6911,7 @@
 	<price>6.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>24</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS CLASSIC LINE]]></brand>
 	<EAN><![CDATA[4035223660508]]></EAN>
@@ -7035,7 +7086,7 @@
 	<price>17.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>3</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<productCode><![CDATA[D-241698]]></productCode>
