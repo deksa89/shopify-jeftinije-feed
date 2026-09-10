@@ -1273,7 +1273,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>40</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -2045,7 +2045,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616393]]></EAN>
@@ -2096,7 +2096,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>25</quantity>
+	<quantity>24</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616423]]></EAN>
@@ -2594,58 +2594,6 @@
 			<name><![CDATA[Kategorija]]></name>
 			<values>
 				<value><![CDATA[Adult Toys]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Boja]]></name>
-			<values>
-				<value><![CDATA[Black]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[53604185145681]]></ID>
-	<name><![CDATA[LELO Soraya Wave Vibrator Rabbit, Black]]></name>
-	<description><![CDATA[Enjoy overflowing pleasure with this luxurious bunny vibrator. Experience intense simultaneous stimulation of the clitoris and G-Spot, thanks to the patented WaveMotion™ technology, which offers you an internal massage with rocking like the caresses of the fingers of an enlightened lover, to reach a tsunami of orgasms. EXCITING WAVEMOTION TECHNOLOGY ADVANTAGES. Experience a tsunami of orgasms, thanks to the rocking inspired by the caresses of the fingers of enlightened lovers and a molded tip to precisely massage your G-Spot. ERGONOMIC EXTERNAL STIMULATOR. With a flexible external stimulator to easily adapt to all shapes and hyper-powerful vibrations to overwhelm you with pleasure. EXTRA-SOFT SILICONE. With extra-soft and biocompatible premium silicone that is as hygienic as it is pleasant to the touch. COMPLETELY SUBMERSIBLE AND RECHARGEABLE. With the USB charging cable, you can take and use your SORAYA WAVE wherever you go. Plus, being submersible, it's also incredibly easy to clean. Technical characteristics:. Material: ABS and biocompatible silicone. Size: 220 x 75 x 44mm. Insertable length: 110mm. Weight: 186g. Battery: Li-Ion 850mAh 3.7V. Charging time: 2 hours at 5.0V 750mA. Use time: Up to 2 hours. Standby time: Up to 90 days. Frequency: 120HZ. Interface: 3 buttons]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/lelo-soraya-wave-vibrator-rabbit-black?variant=53604185145681]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-black-5412381.png?v=1775073016]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-black-7828062.jpg?v=1775073016,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-black-6412806.jpg?v=1775073016,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-black-6350348.jpg?v=1775073015,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-black-1776768.jpg?v=1775073017,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-purple-3262755.png?v=1775073073,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/soraya-wave-vibrator-rabbit-midnight-blue-4875161.jpg?v=1775073088]]></moreImages>
-	<price>220.15</price>
-	<regularPrice>259.00</regularPrice>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075028151]]></EAN>
-	<productCode><![CDATA[D-223492]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId><![CDATA[10457800900945]]></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[Black]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-223492]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -3380,7 +3328,7 @@
 	<price>35.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>44</quantity>
+	<quantity>43</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961107]]></EAN>
@@ -4646,7 +4594,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -5276,7 +5224,7 @@
 	<price>57.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>49</quantity>
+	<quantity>47</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[FUN FACTORY]]></brand>
 	<EAN><![CDATA[4255821801107]]></EAN>
@@ -5321,7 +5269,7 @@
 	<price>71.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SNAIL VIBE]]></brand>
 	<EAN><![CDATA[8720615766178]]></EAN>
@@ -5662,7 +5610,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>48</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -6316,50 +6264,6 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[54267540799825]]></ID>
-	<name><![CDATA[INTT LUBRICANTS My Lube Intimate Water-Based Lubricant Natural]]></name>
-	<description><![CDATA[My Lube is a water-based intimate gel, neutral and odorless, completely natural composition. Compatible with all skin types, condoms and sex toys. Instructions for use:. Apply the desired amount to any part of the body to improve lubrication. Precautions:. Keep away from light and heat and out of reach of children. In case of irritation, discontinue use and seek medical advice. EXTERNAL USE. Characteristics:. My Lube comes contained in a 100ml container. All natural. Prevents cracks. Reduces friction. Increases sexual pleasure]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/intt-lubricants-my-lube-intimate-water-based-lubricant-natural?variant=54267540799825]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_183880_ada8394ab42b8ab13851663d9ba11087_1.jpg?v=1783543128]]></mainImage>
-	<price>8.99</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>4</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[INTT LUBRICANTS]]></brand>
-	<EAN><![CDATA[5600781416271]]></EAN>
-	<productCode><![CDATA[D-241200]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[INTT LUBRICANTS]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-241200]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
 	<ID><![CDATA[54267540865361]]></ID>
 	<name><![CDATA[PJUR Toy Glide Water Based Lubricant For Toys 100 Ml]]></name>
 	<description><![CDATA[Discover pjur TOY GLIDE, the perfect lubricant for masturbators and sex toys. Our water-based formula ensures a smooth and long-lasting glide, provides moisturisation and is suitable for all materials such as latex, rubber, glass or silicone. pjur TOY GLIDE is also condom compatible, offering your customers extra comfort and a more intense experience. It is an ideal complement to our classic pjur TOY LUBE. FEATURES :. Water-based moisturising formula, ideal for use with all sex toys. Specially designed for use with masturbators. Even distribution and long-lasting lubrication. Suitable for use with condoms. The pjur TOY series is designed for all sex toy users who value high-quality lubricants and thorough, gentle cleaning of their toys, including removing silicone-based lubricants]]></description>
@@ -6412,7 +6316,7 @@
 	<price>13.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[HOT]]></brand>
 	<EAN><![CDATA[4042342000429]]></EAN>
@@ -6765,7 +6669,7 @@
 	<price>12.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION CLEAN SAFE]]></brand>
 	<EAN><![CDATA[4028403139000]]></EAN>
@@ -7021,49 +6925,6 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[54267655651665]]></ID>
-	<name><![CDATA[PJUR Toy Foam Toy Cleaner Mild Foam 150 Ml]]></name>
-	<description><![CDATA[Introducing pjur TOY FOAM, the perfect alternative to soap and cleaning sprays for a thorough and gentle cleaning of sex toys. This foam effectively removes residue from water-based and silicone-based lubricants, and only requires a few pumps for hygienic cleaning without damaging the material. It is ideal for use on glass, metal, plastic, latex, rubber and silicone, and has been dermatologically tested for skin compatibility. pjur TOY FOAM offers comprehensive and gentle care for your toys – it is resistant to residue, but gentle on materials. FEATURES :. Gentle foam for thorough, hygienic cleaning of all sex toys. Effectively removes water-based and silicone-based lubricants. Contains mild surfactants for effective cleaning, especially on synthetic surfaces. Dermatologically tested. Alcohol-free. The pjur TOY series is designed for all sex toy users who value high-quality lubricants and thorough, gentle cleaning of their toys, including the removal of silicone-based lubricants]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/pjur-toy-foam-toy-cleaner-mild-foam-150-ml?variant=54267655651665]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_188658_ed3348472cb514c3e0194a9c5bf0d61b_1.jpg?v=1783544351]]></mainImage>
-	<price>17.99</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>4</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[PJUR]]></brand>
-	<productCode><![CDATA[D-241698]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[PJUR]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-241698]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
 	<ID><![CDATA[54267658404177]]></ID>
 	<name><![CDATA[STIMUL8 Hygienic Toy Cleaner 150 Ml]]></name>
 	<description><![CDATA[Keep your intimate toys fresh and clean with the S8 Hygienic Toycleaner – offering powerful, antimicrobial protection you can trust. This top-quality cleaner ensures that your favorite toys are ready for use anytime with just a simple spray before and after use. Made with safe and effective ingredients, the S8 Hygienic Toycleaner not only keeps your toys in great condition but provides advanced hygiene care that’s perfect for maintaining your pleasure products. An essential add-on for any toy purchase!. Specifications. Product dimensions 150 ml. Total length 16.5 cm. Shelf life after opening 3M. Ingredients:. Aqua, Propylene Glycol, Hexamidine Diisethionate, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Panthenol. This S8 line of intimate care essentials combines premium quality formulas with a price affordable to all, making it an amazing value-for-money choice in erotic wellness. S8 is designed to heighten pleasure and enhance intimacy in a natural, body-safe way. The S8 collection offers something for every preference. From water-based, silicone-based, flavored and hybrid lubricants; to toy cleaner and arousal gels: S8 has it all. The appeal of S8 drugstore is as ‘natural’ as possible, mimicking natural lubrication and keeping the formulas clean of any unnecessary chemicals. The products do not contain harsh preservatives and are paraben-free, phthalate-free, and gluten-free - all mentioned clearly on the transparent packaging of the lubricants. S8 adheres to all European standards and regulations for intimate care products and offers a trustworthy, body-safe and indulgent experience for all lovers of intimate pleasure]]></description>
@@ -7275,50 +7136,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-237076]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267664400721]]></ID>
-	<name><![CDATA[FEMINTIMATE Antibacterial Toy Cleaner Spray 150 Ml]]></name>
-	<description><![CDATA[The Feminitimate brand, a specialist in female intimacy, offers its antibacterial sex toy cleaner to ensure the cleanliness of your intimate toys and extend their useful life. By keeping the sex toy clean you manage to avoid diseases, in addition, you prevent the toy from deteriorating prematurely. The Femintimate Cleaning Spray is the best solution for the maintenance of your Femintimate products and all sex toys in general. It is very important to keep your sex toys clean and bacteria-free if you want them to work as long as they are supposed to. Well, good sex toy hygiene is as important for you as it is for the toy. It is as simple as applying the amount of Femintimate Cleaning Spray that you think is necessary to the toy and with a little warm water rub the toy with your hands. Once you see that the smell If the toy is nice and has no stains, it means it is clean. completely clean, so that rinse and let dry. It will be ready to store or… For a second round!. FEATURES:. Hygienic cleaner for sex toys. Water-based cleaner. Odorless, colorless, does not stain. Alcohol-free. Spray bottle. Capacity: 150 ml]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/femintimate-antibacterial-toy-cleaner-spray-150-ml?variant=54267664400721]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_158749_202f23544cb8fe15a62ac7fd339488d6_1.jpg?v=1783544835]]></mainImage>
-	<price>9.90</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>6</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[FEMINTIMATE]]></brand>
-	<EAN><![CDATA[8433345620015]]></EAN>
-	<productCode><![CDATA[D-237100]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[FEMINTIMATE]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-237100]]></value>
 			</values>
 		</attribute>
 		<attribute>
