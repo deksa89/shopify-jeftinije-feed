@@ -189,7 +189,7 @@
 	<price>55.76</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>32</quantity>
+	<quantity>31</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504049700]]></EAN>
@@ -718,7 +718,7 @@
 	<price>224.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[KIIROO]]></brand>
 	<EAN><![CDATA[8720938956348]]></EAN>
@@ -763,7 +763,7 @@
 	<price>188.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460611107]]></EAN>
@@ -1273,7 +1273,7 @@
 	<price>60.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>15</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504009889]]></EAN>
@@ -2241,58 +2241,6 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[53603975004497]]></ID>
-	<name><![CDATA[LELO Ida Wave Masažer, crna]]></name>
-	<description><![CDATA[IDA™ Wave je masažer koji se povezuje s aplikacijom i sadrži dva odvojena motora kako bi te postupno doveo do nevjerojatno snažnog orgazma. Umetnuti dio se rotira i zahvaljujući WaveMotion™ tehnologiji imitira pokret prstiju, pružajući duboko, preplavljujuće zadovoljstvo na G-točki. Gornji, veći dio uređaja pruža bogate, precizne vibracije izravno na klitoris. DUPLA SNAGA. Dva motora s moćnim vibracijama nude istovremenu unutarnju i vanjsku stimulaciju. ŠIRI RASPON INTENZITETA. Isprobaj 10 intenzivnih modova užitka i pronađi savršen ritam za sebe. UPRAVLJANJE PREKO APLIKACIJE. Poveži i kontroliraj uređaj putem Bluetootha za još osobnije iskustvo. WAVEMOTION™ TEHNOLOGIJA. Uživaj u osjećaju savršene masaže prstima — posebno osmišljenoj da stimulira G-točku. KAKO KORISTITI IDA™ WAVE. Prije prve upotrebe. Napuni IDA™ Wave 2 sata. KORIŠTENJE BEZ APLIKACIJE. Pritisni gumb da uključiš uređaj. LED lampice će treperiti i prikazati razinu baterije. Kada prestanu treperiti, prikazuju aktivnu razinu vibracija. Kratko pritiskuj gumb za promjenu moda (svi su zadano postavljeni na 100% intenzitet). Drži središnji gumb 3 sekunde za isključivanje. KORIŠTENJE S APLIKACIJOM. Drži središnji gumb 3 sekunde da uključiš uređaj i aktiviraš Bluetooth. Sve LED lampice trepere istovremeno — uređaj traži povezivanje. Otvori aplikaciju TIANI™ Harmony i nakon poruke potvrde pritisni središnji gumb na uređaju. Kada LED lampice svijetle stabilno, uređaj je uspješno povezan. Ako povezivanje ne uspije, uređaj se automatski gasi nakon 30 sekundi. U aplikaciji možeš vidjeti razinu baterije i vibracija]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/lelo-ida-wave-masazer-za-parove?variant=53603975004497]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-black-1514485.jpg?v=1775073077]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-4197037.png?v=1775073089,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-9574960.jpg?v=1775073089,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-5019089.jpg?v=1775073090,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-3435150.jpg?v=1775073091,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-8802595.jpg?v=1775073092,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-8706020.jpg?v=1775073088]]></moreImages>
-	<price>160.65</price>
-	<regularPrice>189.00</regularPrice>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
-	<brand><![CDATA[LELO]]></brand>
-	<EAN><![CDATA[7350075028663]]></EAN>
-	<productCode><![CDATA[D-232089]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId><![CDATA[10457812336977]]></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[crna]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[LELO]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-232089]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Boja]]></name>
-			<values>
-				<value><![CDATA[crna]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
 	<ID><![CDATA[53603998695761]]></ID>
 	<name><![CDATA[LELO Enigma Vibrator Za Dvostruku Stimulaciju, ljubičasta]]></name>
 	<description><![CDATA[Nikad se ne zadovoljavamo prosjekom — zato uvijek idemo dalje. Upoznaj ENIGMA™, luksuzni masažer s dvostrukim djelovanjem koji spaja najbolje od oba svijeta: duboku stimulaciju klitorisa i snažnu stimulaciju G-točke. ENIGMA™ je stvoren za vanzemaljske, sonične orgazme. Vlasnice ENIGME™ su žene koje poznaju svoje želje, analiziraju ih i prihvaćaju jednu po jednu. One nose svoju jedinstvenost kao zastavu — od vlastitog stila do skrivenih fantazija — i uživaju u njima bez srama, bez straha da budu drugačije. Za razliku od drugih sličnih proizvoda, ENIGMA™ nudi pulsirajuću stimulaciju klitorisa + vibraciju G-točke, stvarajući toliko intenzivan orgazam da ga ne može svatko izdržati. ŠTO JE ENIGMA™?. ENIGMA™ je inspirirana našim bestsellerima SONA™ i SORAYA™, kombinirajući najluksuznije hibridno zadovoljstvo na svijetu. Koristi sonične valove koji stimuliraju cijeli klitoris (i vidljivi i skriveni dio), dok unutarnji ergonomski stimulator masira G-točku — baš kao SORAYA™ — vodeći do progresivnog orgazma koji te iznova preplavljuje. OPIS PROIZVODA. ENIGMA™ je luksuzni sonični masažer s dvostrukim djelovanjem, dizajniran da stimulira cijeli klitoris i G-točku, pružajući orgazam toliko intenzivan da ćeš se osjećati kao da si napustila orbitu. Sa snažnim soničnim valovima za vanjski dio klitorisa i nježnim pulsacijama za unutarnji dio tijela, ENIGMA™ pogađa baš prava mjesta — za orgazam koji se ne zaboravlja. Prednosti:. Kombinira sonične valove i nježne pulsacije za dvostruko zadovoljstvo. 8 vibracijskih uzoraka za pronalaženje savršene stimulacije. Unutarnja i vanjska stimulacija — baš onako kako ti želiš. 100% vodootporan i USB punjiv — prati te gdje god poželiš. Tih, moćan i diskretan. 1 godina jamstva + 10 godina LELO kvalitete. ENIGMA™ omogućuje istovremeno aktiviranje obje stimulacije, pa možeš doživjeti dvije potpuno različite vrste vrhunaca. Stvorena je za one najznatiželjnije koji žele istražiti nove senzacije i otkriti drugačiju vrstu užitka. SENSONIC™ TEHNOLOGIJA. Sonični valovi stimuliraju klitoris bez direktnog kontakta, pružajući dublji, ali nježniji osjećaj. DUPLA STIMULACIJA. Istovremeno miluje vanjski i skriveni dio klitorisa + stimulira vaginu. ERGONOMSKI UNUTARNJI STIMULATOR. Fleksibilan, snažan i savršeno oblikovan za preciznu stimulaciju G-točke. SADRŽAJ PAKIRANJA. ENIGMA™. USB punjač. Satenska vrećica. Registracija jamstva. Upute za upotrebu. ZNAČAJKE. Materijali: ABS plastika / siguran silikon za tijelo Boje: Deep Rose, Black Sučelje: 3 tipke Automatsko gašenje: nakon 60 minuta Frekvencija: 60 Hz / 100 Hz Baterija: Li-ion 850 mAh, 3.7 V Vrijeme korištenja: do 2 sata Stanje pripravnosti: do 90 dana Dimenzije: 100 × 50 × 185 mm Dužina umetanja: 140 mm Težina: 196 g]]></description>
@@ -2355,7 +2303,7 @@
 	<regularPrice>108.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>12</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027895]]></EAN>
@@ -2996,7 +2944,7 @@
 	<regularPrice>198.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075028489]]></EAN>
@@ -3365,6 +3313,57 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[crvena]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53702496354641]]></ID>
+	<name><![CDATA[SNAIL VIBE Gizi Lite Dualni Vibrator, ljubičasta]]></name>
+	<description><![CDATA[Snail Vibe GIZI Lite osmišljen je za istraživanje i pojačavanje G-točka užitka kroz savršeno usklađenu dvostruku stimulaciju. Njegov oblik omogućuje pronalazak idealne dubine, dok vibracije istovremeno nježno stimuliraju vaginalno i klitoralno područje, stvarajući uravnoteženo, intenzivno i duboko zadovoljavajuće iskustvo. Zahvaljujući ergonomskom dizajnu i dvostrukim motorima, GIZI Lite pruža preciznu i ciljanu stimulaciju točno tamo gdje je najpotrebnija. Izrađen od premium silikona sigurnog za tijelo, njegova mekana i fleksibilna tekstura prirodno se prilagođava tijelu te osigurava udobnost i kontrolu tijekom svakog korištenja. SVibe GIZI Lite dolazi s 5 brzina vibracije, što vam omogućuje da intenzitet prilagodite vlastitim željama. Njegov splashproof dizajn omogućuje bezbrižno korištenje, dok sustav punjenja putem priključka osigurava jednostavno i pouzdano napajanje. Savršen za otkrivanje novih senzacija ili dodatno obogaćivanje već poznatog užitka, GIZI Lite pretvara svaki trenutak u dublje, povezanije i profinjenije iskustvo. Poziv na istraživanje užitka s više preciznosti, svjesnosti i zadovoljstva. ZNAČAJKE:. Dvostruka stimulacija G-točke i klitorisa. Dvostruki motori za usklađen i ciljani užitak. 5 brzina vibracije. Ergonomski oblik za prirodno pristajanje. Mekani silikon siguran za tijelo. Punjenje putem priključka. Splashproof dizajn. DIMENZIJE:. Umetljiva duljina: od 120 mm / 4,7” do 35 mm / 1,4”. Težina: 300 g / 0,7 lb]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/hr/products/dualni-vibrator-za-g-tocku-gizi-lite?variant=53702496354641]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/snail-vibe-gizi-lite-dual-vibrator-luvmechanics-2629242.jpg?v=1778150716]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/snail-vibe-gizi-lite-dual-vibrator-luvmechanics-2872556.jpg?v=1778150715,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/snail-vibe-gizi-lite-dual-vibrator-luvmechanics-4509066.jpg?v=1778150717,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/snail-vibe-gizi-lite-dual-vibrator-luvmechanics-3958521.jpg?v=1778150717,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/snail-vibe-gizi-lite-dual-vibrator-luvmechanics-8564187.jpg?v=1778150716,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/snail-vibe-gizi-lite-dual-vibrator-luvmechanics-3386886.jpg?v=1778150716]]></moreImages>
+	<price>49.50</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>24</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
+	<brand><![CDATA[SNAIL VIBE]]></brand>
+	<EAN><![CDATA[8720615765690]]></EAN>
+	<productCode><![CDATA[D-245139]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId><![CDATA[10775189651793]]></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[ljubičasta]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[SNAIL VIBE]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-245139]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Boja]]></name>
+			<values>
+				<value><![CDATA[ljubičasta]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -3951,7 +3950,7 @@
 	<regularPrice>148.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029745]]></EAN>
@@ -4363,7 +4362,7 @@
 	<price>24.29</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>26</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<EAN><![CDATA[0811041015867]]></EAN>
@@ -4414,7 +4413,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>24</quantity>
+	<quantity>23</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460632300]]></EAN>
@@ -4459,7 +4458,7 @@
 	<price>40.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>43</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601283]]></EAN>
@@ -4594,7 +4593,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -5224,7 +5223,7 @@
 	<price>57.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>46</quantity>
+	<quantity>45</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[FUN FACTORY]]></brand>
 	<EAN><![CDATA[4255821801107]]></EAN>
