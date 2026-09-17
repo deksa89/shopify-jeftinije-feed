@@ -234,7 +234,7 @@
 	<price>51.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504001999]]></EAN>
@@ -2104,7 +2104,7 @@
 	<regularPrice>199.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022277663]]></EAN>
@@ -4109,7 +4109,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>17</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460632300]]></EAN>
@@ -5705,7 +5705,7 @@
 	<price>13.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>33</quantity>
+	<quantity>31</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION AQUAGLIDE]]></brand>
 	<EAN><![CDATA[4028403117060]]></EAN>
@@ -5795,7 +5795,7 @@
 	<price>13.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[SWEDE]]></brand>
 	<EAN><![CDATA[7350028782222]]></EAN>
@@ -6172,6 +6172,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-234934]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267540799825]]></ID>
+	<name><![CDATA[INTT LUBRICANTS My Lube Intimate Water-Based Lubricant Natural]]></name>
+	<description><![CDATA[My Lube is a water-based intimate gel, neutral and odorless, completely natural composition. Compatible with all skin types, condoms and sex toys. Instructions for use:. Apply the desired amount to any part of the body to improve lubrication. Precautions:. Keep away from light and heat and out of reach of children. In case of irritation, discontinue use and seek medical advice. EXTERNAL USE. Characteristics:. My Lube comes contained in a 100ml container. All natural. Prevents cracks. Reduces friction. Increases sexual pleasure]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/intt-lubricants-my-lube-intimate-water-based-lubricant-natural?variant=54267540799825]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_183880_ada8394ab42b8ab13851663d9ba11087_1.jpg?v=1783543128]]></mainImage>
+	<price>8.99</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>26</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[INTT LUBRICANTS]]></brand>
+	<EAN><![CDATA[5600781416271]]></EAN>
+	<productCode><![CDATA[D-241200]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[INTT LUBRICANTS]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-241200]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -6669,6 +6713,50 @@
 	</attributes>
 </Item>
 <Item>
+	<ID><![CDATA[54267649917265]]></ID>
+	<name><![CDATA[EROS CLASSIC LINE All Purpose Toy Cleaner 50 Ml]]></name>
+	<description><![CDATA[All Purpose Toy Cleaner is a hygienic disinfectant for cleaning and caring for erotic toys, Chinese balls, vaginal cups. Antimicrobial effectively prevents bacterial infections, those caused by fungi and viruses. Suitable for use with all types of materials including silicone. Characteristics:. Suitable for all materials including silicone. It works in 60 seconds (keep the product applied for 60 seconds on the object - vibrator, Chinese balls. - that you want to sanitize). Rinse with water after 60 seconds of application. Spray dispenser to optimize application. Soluble in water]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/eros-all-purpose-toy-cleaner-50-ml?variant=54267649917265]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_75248_fb5373b3d3d6b5049b980eb1d798fbec_1.jpg?v=1783544028]]></mainImage>
+	<price>6.26</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>48</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[EROS CLASSIC LINE]]></brand>
+	<EAN><![CDATA[4035223660508]]></EAN>
+	<productCode><![CDATA[D-220526]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[EROS CLASSIC LINE]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-220526]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
 	<ID><![CDATA[54267649950033]]></ID>
 	<name><![CDATA[EROS All Purpose Toy Cleaner 100 Ml]]></name>
 	<description><![CDATA[Thanks to its alcohol-free composition, this hygienic cleaning spray is ideal for gently cleaning and caring for erotic toys with sensitive surfaces. Regular cleaning prolongs their life. EROS All Purpose Toy Cleaner is an extremely effective cleaner that does not have an unpleasant smell of alcohol. Directions for use:. For hygienic cleaning, rub your hands /the objects with 3 ml of Eros All Purpose Toy Cleaner for 60 seconds. While clieanig, make sure your hands /the objects are kepet moist with this product. Amount: 100 ml]]></description>
@@ -6808,7 +6896,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>22</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221346216]]></EAN>
@@ -6853,7 +6941,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>39</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[HOT]]></brand>
 	<EAN><![CDATA[4042342004359]]></EAN>
