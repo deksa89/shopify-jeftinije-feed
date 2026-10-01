@@ -99,7 +99,7 @@
 	<price>148.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209362]]></EAN>
@@ -233,7 +233,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>30</quantity>
+	<quantity>40</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[SHUNGA]]></brand>
 	<productCode><![CDATA[D-224035]]></productCode>
@@ -257,50 +257,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-224035]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[52642839527761]]></ID>
-	<name><![CDATA[PJUR Med Vegan Glide Water Based Lubricant 100 Ml]]></name>
-	<description><![CDATA[Preservative-free water-based lubricant with vegan formulation. With exclusively vegetable ingredients and without any type of animal experimentation. Provides gently additional moisture for long-lasting lubrication and is PH balanced. The formula adapts to sensitive mucous membranes, which tolerate it very well, and does not contain perfume, parabens or glycerin. 100 ml container. Experience Pjur]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/pjur-med-vegan-glide-water-based-lubricant-100-ml?variant=52642839527761]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/med-vegan-glide-water-based-lubricant-100-ml-5296546.jpg?v=1775073135]]></mainImage>
-	<price>16.16</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>6</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[PJUR]]></brand>
-	<EAN><![CDATA[0827160111373]]></EAN>
-	<productCode><![CDATA[D-230660]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[PJUR]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-230660]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -451,7 +407,7 @@
 	<price>12.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[ID GLIDE]]></brand>
 	<productCode><![CDATA[D-201405]]></productCode>
@@ -968,7 +924,7 @@
 	<price>143.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460630665]]></EAN>
@@ -1583,7 +1539,7 @@
 	<regularPrice>248.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029639]]></EAN>
@@ -1788,7 +1744,7 @@
 	<regularPrice>189.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075028670]]></EAN>
@@ -1944,7 +1900,7 @@
 	<regularPrice>108.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027802]]></EAN>
@@ -2203,7 +2159,7 @@
 	<price>44.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>40</quantity>
+	<quantity>39</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ADDICTED TOYS]]></brand>
 	<EAN><![CDATA[8435565959722]]></EAN>
@@ -2624,7 +2580,7 @@
 	<regularPrice>148.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>3</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075024337]]></EAN>
@@ -2655,6 +2611,52 @@
 			<name><![CDATA[Kategorija]]></name>
 			<values>
 				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53698762473809]]></ID>
+	<name><![CDATA[LELO Lyla 2 Massager Egg]]></name>
+	<description><![CDATA[The World's Most Advanced Oval Shaped Massager with Remote Control. Lyla™ 2 is the most advanced oval-shaped massager in the world today, it can be used both externally and internally, and allows you to enjoy a wide variety of exciting sensations. Featuring for the first time LELO's SenseMotion™ technology and a remote control with a range of up to 12 meters, the intense vibration modes are easily controlled with a simple tilt of the remote. At the same time, a discreet motor inside the remote control will replicate the vibrations of Lyla™ 2 allowing you to feel in your hand the vibrations that your partner is experiencing. Amazingly quiet, 100% waterproof and rechargeable, and designed with soft and delicate silicone, Lyla™ 2 offers a wide range of possibilities in couples games. The new Design edition includes some really interesting improvements such as:. 50% more power, with less noise. Expanded remote control vibration range (x3). Intelligent memory chip to avoid vibration interruptions caused by environmental interference. Possibility of controlling the vibration patterns with or without the remote control, from the toy itself. Content:. Lyla™ 2 Pink Pleasure Object. Remote control. Charger. 2 AAA batteries. Badge Brooch. Satin bag. 1 year LELO warranty]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/lelo-lyla-2-insignia-design-edition-purple-massager-egg?variant=53698762473809]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-lyla-2-massager-egg-luvmechanics-4014348.jpg?v=1778150727]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-lyla-2-massager-egg-luvmechanics-5738239.jpg?v=1778150725,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-lyla-2-massager-egg-luvmechanics-1477571.jpg?v=1778150726,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-lyla-2-massager-egg-luvmechanics-6988647.jpg?v=1778150726,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-lyla-2-massager-egg-luvmechanics-6156624.jpg?v=1778150726,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-lyla-2-massager-egg-luvmechanics-6679114.jpg?v=1778150726]]></moreImages>
+	<price>135.14</price>
+	<regularPrice>158.99</regularPrice>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>4</quantity>
+	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
+	<brand><![CDATA[LELO]]></brand>
+	<EAN><![CDATA[7350022275911]]></EAN>
+	<productCode><![CDATA[D-195037]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[LELO]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-195037]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Adult Toys]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -3122,7 +3124,7 @@
 	<regularPrice>98.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029721]]></EAN>
@@ -3315,6 +3317,58 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[Purple]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53702693880145]]></ID>
+	<name><![CDATA[LELO Liv™ 3 G-Spot Stimulator, Blue]]></name>
+	<description><![CDATA[We are thrilled to introduce LIV™ 3, our latest G-spot vibrator that perfectly complements the body and is designed to enhance its customers' self-love journey. With its refined design and personalized pleasure options through the LELO app, LIV™ 3 is sure to catch your eye. Elegantly encased in ultra-soft silicone for absolute comfort, LIV™ 3 perfectly fits all anatomies, providing easy access to powerful G-spot stimulation. With eight unique settings and a redesigned shape, this vibrator delivers deep, precise massages for profound orgasmic release. Connecting your LIV™ 3 to the LELO app via Bluetooth unlocks two additional modes, offering an enhanced, customizable experience tailored to your preferences. The product is set with a default auto-off time of 20 minutes, which can be easily adjusted via the app. Features:. Materials : Biocompatible silicone and ABS plastic. Finish : Smooth. Size : 169 x 35 x 42 mm. Insertable length : 1 00 mm. Weight : 93 g. Battery : Li-ion 420 mAh 3.7 V. Charging : up to 2 h at 5 V 420 mA. Nominal power :. • Input: 5 V 420 mA 2.1 W. • Output: 3.7 V 600 mA 2.22 W. Use time : up to 2 h. Standby: 90 days. Frequency: 100 Hz. Max. noise level: <60 dB. Interface : 3 buttons]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/lelo-liv%E2%84%A2-3-g-spot-stimulator-violet?variant=53702693880145]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-1814641.jpg?v=1778150726]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-9566765.jpg?v=1778150724,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-4524235.jpg?v=1778150726,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-3437200.jpg?v=1778150727,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/lelo-liv-3-g-spot-stimulator-luvmechanics-5882339.jpg?v=1778150727]]></moreImages>
+	<price>84.14</price>
+	<regularPrice>98.99</regularPrice>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>3</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
+	<brand><![CDATA[LELO]]></brand>
+	<EAN><![CDATA[7350075029776]]></EAN>
+	<productCode><![CDATA[D-241849]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId><![CDATA[10786020229457]]></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[Blue]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[LELO]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-241849]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Boja]]></name>
+			<values>
+				<value><![CDATA[Blue]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -3537,7 +3591,7 @@
 	<price>24.29</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>21</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<EAN><![CDATA[0811041015843]]></EAN>
@@ -3741,7 +3795,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>37</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460632300]]></EAN>
@@ -4776,7 +4830,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>24</quantity>
+	<quantity>23</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460633314]]></EAN>
@@ -5522,7 +5576,7 @@
 	<price>16.16</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>33</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160111137]]></EAN>
@@ -5566,7 +5620,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>27</quantity>
+	<quantity>25</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113162]]></EAN>
@@ -5610,7 +5664,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113155]]></EAN>
@@ -5831,7 +5885,7 @@
 	<price>13.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[HOT]]></brand>
 	<EAN><![CDATA[4042342000429]]></EAN>
@@ -5964,7 +6018,7 @@
 	<price>10.79</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>22</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[DUREX LUBES]]></brand>
 	<EAN><![CDATA[8410104881832]]></EAN>
@@ -6097,7 +6151,7 @@
 	<price>16.19</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<productCode><![CDATA[D-244664]]></productCode>
@@ -6450,7 +6504,7 @@
 	<price>14.39</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[INTIMATELINE INTIMATELINE]]></brand>
 	<EAN><![CDATA[8594213380568]]></EAN>
@@ -6671,7 +6725,7 @@
 	<price>8.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[KIIROO]]></brand>
 	<EAN><![CDATA[8719324994941]]></EAN>
@@ -6707,50 +6761,6 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[54267661320529]]></ID>
-	<name><![CDATA[STIMUL8 S8 Refreshing Natural Renewing Powder 60 Gr]]></name>
-	<description><![CDATA[Take care of your favorite Realistic Skin products and keep them feeling fresh and new with S8 Renewal Powder. Wash and dry your Realistic Skin toy. Apply a good amount of the powder and gently rub it in until your toy feels soft and smooth again. Specifications. Product dimensions 60 ml. Total length 10 cm. Insertable diameter Ø 4 cm. Ingredients. Cornflour. This S8 line of intimate care essentials combines premium quality formulas with a price affordable to all, making it an amazing value-for-money choice in erotic wellness.S8 is designed to heighten pleasure and enhance intimacy in a natural, body-safe way. The S8 collection offers something for every preference. From water-based, silicone-based, flavored and hybrid lubricants; to toy cleaner and arousal gels: S8 has it all. The appeal of S8 drugstore is as ‘natural’ as possible, mimicking natural lubrication and keeping the formulas clean of any unnecessary chemicals. The products do not contain harsh preservatives and are paraben-free, phthalate-free, and gluten-free - all mentioned clearly on the transparent packaging of the lubricants. S8 adheres to all European standards and regulations for intimate care products and offers a trustworthy, body-safe and indulgent experience for all lovers of intimate pleasure]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/stimul8-s8-refreshing-natural-renewing-powder-60-gr?variant=54267661320529]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_208718_76f4c89a5647a6d484f3f2b13b3187d7_1.jpg?v=1783544695]]></mainImage>
-	<price>5.85</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>11</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[STIMUL8]]></brand>
-	<EAN><![CDATA[8713221821287]]></EAN>
-	<productCode><![CDATA[D-243748]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[STIMUL8]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-243748]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
 	<ID><![CDATA[54267661353297]]></ID>
 	<name><![CDATA[ADRIEN LASTIC Toy Cleaner Antibacterial 150 Ml]]></name>
 	<description><![CDATA[DISCOVER TOY CLEANER. It is very important to keep your sex toys clean and free of bacteria if you want them to work as long as they are supposed to. Well, good sex toy hygiene is as important for you as it is for the toy. By keeping the sex toy clean you can avoid diseases, and you also prevent the toy from deteriorating prematurely. HOW TO USE IT?. To be as efficient as possible when cleaning your sex toys, at Adrien Lastic we recommend using warm water and our Toy Cleaner. It is as simple as applying the amount of Toy Cleaner that you think is necessary to the toy and with a little warm water rub the toy with your hands. Once you see that the smell of the The toy is nice and has no stains, it means it is clean. completely clean, so that rinse and let dry. It will be ready to store or… For a second round!. FEATURES. Amount of Toy Cleaner in the bottle: 150 ml. Store in a cool, dry place, away from sunlight. Do not ingest. Keep out of reach of children. Avoid contact with eyes or wounds. Dimensions : Length 13.8 cm // Diameter 5.1 cm. CONTENTS IN THE BOX. Toy Cleaner 150ml]]></description>
@@ -6759,7 +6769,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>13</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[ADRIEN LASTIC]]></brand>
 	<EAN><![CDATA[8433345610016]]></EAN>
@@ -6803,7 +6813,7 @@
 	<price>9.90</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[FEMINTIMATE]]></brand>
 	<EAN><![CDATA[8433345620015]]></EAN>
