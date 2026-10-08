@@ -1589,7 +1589,7 @@
 	<price>53.96</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>14</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504018379]]></EAN>
@@ -4012,7 +4012,7 @@
 	<price>24.29</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>17</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<EAN><![CDATA[0811041015843]]></EAN>
@@ -4216,7 +4216,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460632300]]></EAN>
@@ -4261,7 +4261,7 @@
 	<price>40.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>35</quantity>
+	<quantity>34</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601283]]></EAN>
@@ -5662,7 +5662,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>36</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -6545,7 +6545,7 @@
 	<price>10.79</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[DUREX LUBES]]></brand>
 	<EAN><![CDATA[8410104881832]]></EAN>
@@ -6943,7 +6943,7 @@
 	<price>6.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>40</quantity>
+	<quantity>39</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS CLASSIC LINE]]></brand>
 	<EAN><![CDATA[4035223660508]]></EAN>
@@ -7161,7 +7161,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>48</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221346216]]></EAN>
@@ -7276,6 +7276,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-245291]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267661320529]]></ID>
+	<name><![CDATA[STIMUL8 S8 Refreshing Natural Renewing Powder 60 Gr]]></name>
+	<description><![CDATA[Take care of your favorite Realistic Skin products and keep them feeling fresh and new with S8 Renewal Powder. Wash and dry your Realistic Skin toy. Apply a good amount of the powder and gently rub it in until your toy feels soft and smooth again. Specifications. Product dimensions 60 ml. Total length 10 cm. Insertable diameter Ø 4 cm. Ingredients. Cornflour. This S8 line of intimate care essentials combines premium quality formulas with a price affordable to all, making it an amazing value-for-money choice in erotic wellness.S8 is designed to heighten pleasure and enhance intimacy in a natural, body-safe way. The S8 collection offers something for every preference. From water-based, silicone-based, flavored and hybrid lubricants; to toy cleaner and arousal gels: S8 has it all. The appeal of S8 drugstore is as ‘natural’ as possible, mimicking natural lubrication and keeping the formulas clean of any unnecessary chemicals. The products do not contain harsh preservatives and are paraben-free, phthalate-free, and gluten-free - all mentioned clearly on the transparent packaging of the lubricants. S8 adheres to all European standards and regulations for intimate care products and offers a trustworthy, body-safe and indulgent experience for all lovers of intimate pleasure]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/stimul8-s8-refreshing-natural-renewing-powder-60-gr?variant=54267661320529]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_208718_76f4c89a5647a6d484f3f2b13b3187d7_1.jpg?v=1783544695]]></mainImage>
+	<price>5.85</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>48</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[STIMUL8]]></brand>
+	<EAN><![CDATA[8713221821287]]></EAN>
+	<productCode><![CDATA[D-243748]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[STIMUL8]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-243748]]></value>
 			</values>
 		</attribute>
 		<attribute>
