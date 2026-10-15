@@ -1388,7 +1388,7 @@
 	<regularPrice>198.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029646]]></EAN>
@@ -1853,7 +1853,7 @@
 	<regularPrice>248.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029639]]></EAN>
@@ -2006,7 +2006,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>46</quantity>
+	<quantity>26</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616409]]></EAN>
@@ -2159,7 +2159,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>36</quantity>
+	<quantity>35</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616423]]></EAN>
@@ -2196,6 +2196,58 @@
 			<name><![CDATA[Boja]]></name>
 			<values>
 				<value><![CDATA[Pink]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[53603974971729]]></ID>
+	<name><![CDATA[LELO Ida Wave Couples Massager, Coral]]></name>
+	<description><![CDATA[SENSUAL INDEPENDENCE. IDA™ Wave is a massager connected to an application and with two separate motors that will allow you to reach orgasm gradually. The insertable part rotates and, thanks to WaveMotion™ technology, also simulates the movement of the fingers to bring you overwhelming pleasure to the G-Spot. The upper part is larger and provides exquisite vibrations on the clitoris. DOUBLE THE POWER Two motors with powerful vibrations that offer internal and external stimulation. GREATER RANGE OF INTENSITIES Experience different levels of satisfaction with 10 intense pleasure modes. APP CONTROLLED Connect and control your device via Bluetooth for more pleasure. WAVEMOTION™ TECHNOLOGY Enjoy a perfect finger massage to stimulate your G-Spot. HOW TO USE TIANY™ HARMONY. * Before first use, charge your IDA™ Wave for 2 hours. HOW TO USE THE PRODUCT WITHOUT THE APP Press the button to turn it on. The LEDs will flash showing the battery charge level. When the LEDs stop flashing, they will show the vibration level. Press the button to change modes. They are set to 100% intensity. Press the center button for 3 seconds to turn it off. HOW TO USE THE PRODUCT WITH THE APP Press the center button for 3 seconds to turn it on while activating Bluetooth. All LEDs will flash simultaneously to show that you are connecting with Bluetooth. Open the TIANI™ Harmony app and, once you have received the confirmation message, press the center button to confirm. When the LEDs shine without flickering, the device has been successfully connected. In case the connection fails, the product will automatically turn off after 30 seconds. Battery and vibration levels can be viewed in the app. CHARACTERISTICS. Materials: Biocompatible silicone and ABS. Size: 63 x 56 x 93mm. Weight: 102g. Battery: Li-ion 3.7 V 520 mAh. Charge: 2 hours at 5.0 V 200 mA. Use time: Up to 2 hours. Standby: Up to 90 days. Frequency: 130Hz. Reducer motor frequency: 1.4 Hz. Interface: 1 button. Modes: 4 (default), up to 10 can be set via app]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/lelo-ida-wave-coral-couples-massager?variant=53603974971729]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-4197037.png?v=1775073089]]></mainImage>
+	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-9574960.jpg?v=1775073089,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-5019089.jpg?v=1775073090,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-3435150.jpg?v=1775073091,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-8802595.jpg?v=1775073092,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-coral-8706020.jpg?v=1775073088,https://cdn.shopify.com/s/files/1/0938/7478/2545/files/ida-wave-couples-massager-black-1514485.jpg?v=1775073077]]></moreImages>
+	<price>160.65</price>
+	<regularPrice>189.00</regularPrice>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>4</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
+	<brand><![CDATA[LELO]]></brand>
+	<EAN><![CDATA[7350075028670]]></EAN>
+	<productCode><![CDATA[D-232090]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId><![CDATA[10457812336977]]></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[Coral]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[LELO]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-232090]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Vibratori]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Boja]]></name>
+			<values>
+				<value><![CDATA[Coral]]></value>
 			</values>
 		</attribute>
 	</attributes>
@@ -2263,7 +2315,7 @@
 	<regularPrice>108.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027895]]></EAN>
@@ -2419,7 +2471,7 @@
 	<regularPrice>199.00</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022277670]]></EAN>
@@ -2991,7 +3043,7 @@
 	<regularPrice>158.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075021350]]></EAN>
@@ -4501,7 +4553,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>48</quantity>
+	<quantity>47</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -5225,7 +5277,7 @@
 	<price>71.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>12</quantity>
+	<quantity>11</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SNAIL VIBE]]></brand>
 	<EAN><![CDATA[8720615766178]]></EAN>
@@ -6163,7 +6215,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>45</quantity>
+	<quantity>44</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113162]]></EAN>
@@ -7309,7 +7361,7 @@
 	<price>5.85</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>33</quantity>
+	<quantity>30</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221821287]]></EAN>
