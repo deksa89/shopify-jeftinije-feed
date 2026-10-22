@@ -1074,7 +1074,7 @@
 	<price>143.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>14</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460630665]]></EAN>
@@ -2101,7 +2101,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>14</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616416]]></EAN>
@@ -2990,7 +2990,7 @@
 	<regularPrice>198.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350167260278]]></EAN>
@@ -4638,7 +4638,7 @@
 	<regularPrice>259.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209263]]></EAN>
@@ -6317,50 +6317,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-230685]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267494236497]]></ID>
-	<name><![CDATA[INTT VEGAN LINE Water-Based Hydra Lubricant With Hyaluronic Acid]]></name>
-	<description><![CDATA[INTT Hydra Plus Vegan Lubricant is a smooth water-based lubricant ideal for facilitating friction during erotic games. Add repairing and moisturizing properties from Centella Asiatica and hyaluronic acid. Some of its benefits are to protect and soothe the intimate area, pampering it in such a way that its application is not only necessary to facilitate penetration but also for daily use to keep the area hydrated. It is totally suitable for use with condoms and sex toys. It is a vegan product and comes in a practical 100 ml container. Main features:. Water based lubricant. Repairing, moisturizing and soothing properties. Ideal to facilitate penetration or for daily use. Suitable for condoms and sex toys. vegan. 100 ml container]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/intt-water-based-hydra-lubricant-with-hyaluronic-acid?variant=54267494236497]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_145237_89d90b99b26c2a0f7526b627515fee42_1.jpg?v=1783543002]]></mainImage>
-	<price>11.69</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[INTT VEGAN LINE]]></brand>
-	<EAN><![CDATA[5600781416004]]></EAN>
-	<productCode><![CDATA[D-234934]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[INTT VEGAN LINE]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-234934]]></value>
 			</values>
 		</attribute>
 		<attribute>
