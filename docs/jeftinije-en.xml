@@ -281,7 +281,7 @@
 	<price>16.16</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>32</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160111373]]></EAN>
@@ -5682,7 +5682,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>12</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350022271173]]></EAN>
@@ -5902,7 +5902,7 @@
 	<price>13.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>24</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[JOYDIVISION AQUAGLIDE]]></brand>
 	<EAN><![CDATA[4028403117060]]></EAN>
@@ -6986,49 +6986,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-237770]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267655651665]]></ID>
-	<name><![CDATA[PJUR Toy Foam Toy Cleaner Mild Foam 150 Ml]]></name>
-	<description><![CDATA[Introducing pjur TOY FOAM, the perfect alternative to soap and cleaning sprays for a thorough and gentle cleaning of sex toys. This foam effectively removes residue from water-based and silicone-based lubricants, and only requires a few pumps for hygienic cleaning without damaging the material. It is ideal for use on glass, metal, plastic, latex, rubber and silicone, and has been dermatologically tested for skin compatibility. pjur TOY FOAM offers comprehensive and gentle care for your toys – it is resistant to residue, but gentle on materials. FEATURES :. Gentle foam for thorough, hygienic cleaning of all sex toys. Effectively removes water-based and silicone-based lubricants. Contains mild surfactants for effective cleaning, especially on synthetic surfaces. Dermatologically tested. Alcohol-free. The pjur TOY series is designed for all sex toy users who value high-quality lubricants and thorough, gentle cleaning of their toys, including the removal of silicone-based lubricants]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/pjur-toy-foam-toy-cleaner-mild-foam-150-ml?variant=54267655651665]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_188658_ed3348472cb514c3e0194a9c5bf0d61b_1.jpg?v=1783544351]]></mainImage>
-	<price>17.99</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>5</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[PJUR]]></brand>
-	<productCode><![CDATA[D-241698]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[PJUR]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-241698]]></value>
 			</values>
 		</attribute>
 		<attribute>
