@@ -499,7 +499,7 @@
 	<price>10.76</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223770832]]></EAN>
@@ -590,7 +590,7 @@
 	<regularPrice>118.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>15</quantity>
+	<quantity>11</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[KIIROO]]></brand>
 	<EAN><![CDATA[8720938956355]]></EAN>
@@ -1633,7 +1633,7 @@
 	<price>62.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>16</quantity>
+	<quantity>14</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532336979]]></EAN>
@@ -1684,7 +1684,7 @@
 	<price>62.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532336955]]></EAN>
@@ -5042,7 +5042,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460632300]]></EAN>
@@ -7360,6 +7360,50 @@
 	</attributes>
 </Item>
 <Item>
+	<ID><![CDATA[54267635827025]]></ID>
+	<name><![CDATA[COBECO - CBL Toy Cleaner 150ML]]></name>
+	<description><![CDATA[CBL Cobeco Toycleaner is specially designed for an extra hygienic cleaning of erotic toys. The formula of CBL Cobeco Toycleaner contains thorough cleaning properties, but does not affect the structure of the sex toys and can comfortably be used again. 150 ml. * This product contains a label with instructions provided in the following languages: /en/de/fr/es/it/nl/]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/hr/products/cobeco-toy-cleaner-150ml?variant=54267635827025]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_13813_99485ca0a4881c13b9b39e2b60031375_1.jpg?v=1783543611]]></mainImage>
+	<price>11.69</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>36</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[COBECO - CBL]]></brand>
+	<EAN><![CDATA[8718546542688]]></EAN>
+	<productCode><![CDATA[D-196495]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[COBECO - CBL]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-196495]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
 	<ID><![CDATA[54267635859793]]></ID>
 	<name><![CDATA[COBECO - CBL Toy Cleaner 50ML]]></name>
 	<description><![CDATA[CBL Cobeco Toycleaner is specially designed for an extra hygienic cleaning of erotic toys. The formula of CBL Cobeco Toycleaner contains thorough cleaning properties, but does not affect the structure of the sex toys and can comfortably be used again. * This product contains a label with instructions provided in the following languages: /en/de/fr/es/it/nl/]]></description>
@@ -7457,7 +7501,7 @@
 	<price>7.19</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>41</quantity>
+	<quantity>31</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[INTIMICHIC]]></brand>
 	<EAN><![CDATA[8425402155493]]></EAN>
