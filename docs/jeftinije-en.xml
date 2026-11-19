@@ -1837,7 +1837,7 @@
 	<price>62.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532336955]]></EAN>
@@ -6135,7 +6135,7 @@
 	<price>215.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350167260339]]></EAN>
@@ -7064,7 +7064,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113834]]></EAN>
@@ -7662,51 +7662,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-207322]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267639300433]]></ID>
-	<name><![CDATA[INTIMICHIC Disinfectant Cleaner 150 Ml]]></name>
-	<description><![CDATA[It is a hygienic disinfectant spray, to produce a deep cleaning effect on erotic toys of all shapes and surfaces. Compared to other disinfectants on the market Intimichic Toy Cleaner has been specially designed with specific ingredients for cleaning erotic material. Its compound applied to toys does not allow them to generate fungi, bacteria or viruses, thus guaranteeing the disinfection and cleaning of the device. It has a fresh and clean aroma and thanks to its powerful spray it allows you to clean the most remote spaces of toys. Use. Depending on the size of the toy, 5 or 6 pumps of spray all over its surface are enough, let it act for a couple of minutes and then rinse with water and dry it well. Characteristics. It is compatible with latex, silicone and gelatin. Antibacterial, fungi and germs. It is colorless. Fresh scent. Essential for all your toys. 150ml spray]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/intimichic-disinfectant-cleaner-150-ml?variant=54267639300433]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_81428_7850c51179d3dd3f2fde40faf9e8aa0a_1.png?v=1783543798]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_81429_0dbc9b2aa7ae61ce158d693a7a531894_1.png?v=1783543798]]></moreImages>
-	<price>7.19</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>18</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[INTIMICHIC]]></brand>
-	<EAN><![CDATA[8425402155493]]></EAN>
-	<productCode><![CDATA[D-213069]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[INTIMICHIC]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-213069]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -9106,7 +9061,7 @@
 	<price>170.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[ARCWAVE]]></brand>
 	<EAN><![CDATA[4251460634311]]></EAN>
@@ -9196,7 +9151,7 @@
 	<price>143.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>14</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WE-VIBE]]></brand>
 	<EAN><![CDATA[4251460631457]]></EAN>
@@ -9241,7 +9196,7 @@
 	<price>143.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>21</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WE-VIBE]]></brand>
 	<EAN><![CDATA[4251460631464]]></EAN>
