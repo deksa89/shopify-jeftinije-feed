@@ -5269,7 +5269,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>22</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -6621,7 +6621,7 @@
 	<price>8.06</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>31</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160101886]]></EAN>
@@ -6646,6 +6646,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-201646]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[54267387117905]]></ID>
+	<name><![CDATA[EROS AQUA & SILK Dense Medical Lubricant 100 Ml]]></name>
+	<description><![CDATA[Due to its special water-based formula, EROS Aqua will make you feel fresh and exceptional sensations during love play. It not only improves the sliding ability but also hydrates you completely making it perfect for your body. Thanks to EROS Aqua, sticky residue on the skin is now a thing of the past. Delight in a new body sensation that is pure, healthy and exciting. Water-based medical lubricant. Dermatologically tested. Yields a lot. Long sliding capacity. Suitable for use with Latex condoms. Water soluble. Neutral to taste. Colorless and odorless. Does not contain oil or perfumes. Approved as a medicinal product. Special dense formula with 100ml dosing bottle]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/eros-aqua-dense-medical-lubricant-100-ml?variant=54267387117905]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_33809_372f8c6ddeb853b15b45c9904a1da994_1.png?v=1783542271]]></mainImage>
+	<price>6.26</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>46</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[EROS AQUA & SILK]]></brand>
+	<EAN><![CDATA[4035223331026]]></EAN>
+	<productCode><![CDATA[D-205290]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[EROS AQUA & SILK]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-205290]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -6975,7 +7019,7 @@
 	<price>14.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>42</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<EAN><![CDATA[0827160113834]]></EAN>
