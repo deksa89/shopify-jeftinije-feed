@@ -192,7 +192,7 @@
 	<regularPrice>125.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>17</quantity>
+	<quantity>16</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140201243]]></EAN>
@@ -544,7 +544,7 @@
 	<price>10.76</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223770832]]></EAN>
@@ -1376,7 +1376,7 @@
 	<price>77.36</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>12</quantity>
+	<quantity>11</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SATISFYER]]></brand>
 	<EAN><![CDATA[4061504051840]]></EAN>
@@ -2302,7 +2302,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>39</quantity>
+	<quantity>40</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460616416]]></EAN>
@@ -4738,7 +4738,7 @@
 	<price>24.29</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<EAN><![CDATA[0811041015843]]></EAN>
@@ -4987,7 +4987,7 @@
 	<price>40.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601283]]></EAN>
@@ -5576,7 +5576,7 @@
 	<price>44.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532364101]]></EAN>
@@ -5711,7 +5711,7 @@
 	<price>89.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>48</quantity>
+	<quantity>47</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[INTENSE HIGH TECH]]></brand>
 	<EAN><![CDATA[8435565961305]]></EAN>
@@ -5987,7 +5987,7 @@
 	<price>215.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>9</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350167260339]]></EAN>
@@ -6038,7 +6038,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>45</quantity>
+	<quantity>41</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460633314]]></EAN>
@@ -6089,7 +6089,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>40</quantity>
+	<quantity>38</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460636889]]></EAN>
@@ -7401,7 +7401,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542688]]></EAN>
@@ -7623,7 +7623,7 @@
 	<price>8.06</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>21</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223661000]]></EAN>
@@ -7746,49 +7746,6 @@
 	</attributes>
 </Item>
 <Item>
-	<ID><![CDATA[54267655651665]]></ID>
-	<name><![CDATA[PJUR Toy Foam Toy Cleaner Mild Foam 150 Ml]]></name>
-	<description><![CDATA[Introducing pjur TOY FOAM, the perfect alternative to soap and cleaning sprays for a thorough and gentle cleaning of sex toys. This foam effectively removes residue from water-based and silicone-based lubricants, and only requires a few pumps for hygienic cleaning without damaging the material. It is ideal for use on glass, metal, plastic, latex, rubber and silicone, and has been dermatologically tested for skin compatibility. pjur TOY FOAM offers comprehensive and gentle care for your toys – it is resistant to residue, but gentle on materials. FEATURES :. Gentle foam for thorough, hygienic cleaning of all sex toys. Effectively removes water-based and silicone-based lubricants. Contains mild surfactants for effective cleaning, especially on synthetic surfaces. Dermatologically tested. Alcohol-free. The pjur TOY series is designed for all sex toy users who value high-quality lubricants and thorough, gentle cleaning of their toys, including the removal of silicone-based lubricants]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/pjur-toy-foam-toy-cleaner-mild-foam-150-ml?variant=54267655651665]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_188658_ed3348472cb514c3e0194a9c5bf0d61b_1.jpg?v=1783544351]]></mainImage>
-	<price>17.99</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>5</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[PJUR]]></brand>
-	<productCode><![CDATA[D-241698]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[PJUR]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-241698]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
 	<ID><![CDATA[54267658404177]]></ID>
 	<name><![CDATA[STIMUL8 Hygienic Toy Cleaner 150 Ml]]></name>
 	<description><![CDATA[Keep your intimate toys fresh and clean with the S8 Hygienic Toycleaner – offering powerful, antimicrobial protection you can trust. This top-quality cleaner ensures that your favorite toys are ready for use anytime with just a simple spray before and after use. Made with safe and effective ingredients, the S8 Hygienic Toycleaner not only keeps your toys in great condition but provides advanced hygiene care that’s perfect for maintaining your pleasure products. An essential add-on for any toy purchase!. Specifications. Product dimensions 150 ml. Total length 16.5 cm. Shelf life after opening 3M. Ingredients:. Aqua, Propylene Glycol, Hexamidine Diisethionate, Phenoxyethanol, PEG-40 Hydrogenated Castor Oil, Panthenol. This S8 line of intimate care essentials combines premium quality formulas with a price affordable to all, making it an amazing value-for-money choice in erotic wellness. S8 is designed to heighten pleasure and enhance intimacy in a natural, body-safe way. The S8 collection offers something for every preference. From water-based, silicone-based, flavored and hybrid lubricants; to toy cleaner and arousal gels: S8 has it all. The appeal of S8 drugstore is as ‘natural’ as possible, mimicking natural lubrication and keeping the formulas clean of any unnecessary chemicals. The products do not contain harsh preservatives and are paraben-free, phthalate-free, and gluten-free - all mentioned clearly on the transparent packaging of the lubricants. S8 adheres to all European standards and regulations for intimate care products and offers a trustworthy, body-safe and indulgent experience for all lovers of intimate pleasure]]></description>
@@ -7797,7 +7754,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>24</quantity>
+	<quantity>23</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221346216]]></EAN>
@@ -7842,7 +7799,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>34</quantity>
+	<quantity>33</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[HOT]]></brand>
 	<EAN><![CDATA[4042342004359]]></EAN>
@@ -8110,7 +8067,7 @@
 	<price>10.79</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>34</quantity>
+	<quantity>33</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[SATISFYER MENSTRUAL CUPS]]></brand>
 	<EAN><![CDATA[4061504002019]]></EAN>
@@ -8960,7 +8917,7 @@
 	<price>143.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>17</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WE-VIBE]]></brand>
 	<EAN><![CDATA[4251460631464]]></EAN>
