@@ -146,7 +146,7 @@
 	<regularPrice>164.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>21</quantity>
+	<quantity>20</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209362]]></EAN>
@@ -525,50 +525,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-201405]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[52643082305873]]></ID>
-	<name><![CDATA[EROS Krema Za Masturbaciju 100 Ml]]></name>
-	<description><![CDATA[Vrijeme je za ljubav prema sebi s Eros kremom za masturbaciju. Krema posebno razvijena za masturbaciju s mekom i spužvastom teksturom za jedinstvene seanse masturbacije. Osim toga, može se koristiti i kao lubrikant. Hibridna krema. Krema na bazi silikona i vode. Posebno dizajniran za masturbaciju. Može se koristiti kao lubrikant. 100 ml]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/hr/products/eros-krema-za-masturbiranje-100-ml?variant=52643082305873]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/masturbation-creme-100-ml-6907322.jpg?v=1775073077]]></mainImage>
-	<price>10.76</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>10</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[EROS]]></brand>
-	<EAN><![CDATA[4035223770832]]></EAN>
-	<productCode><![CDATA[D-221678]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[EROS]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-221678]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -1530,7 +1486,7 @@
 	<regularPrice>198.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>14</quantity>
+	<quantity>13</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029653]]></EAN>
@@ -1994,7 +1950,7 @@
 	<regularPrice>248.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029684]]></EAN>
@@ -2046,7 +2002,7 @@
 	<regularPrice>248.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Masturbatori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029622]]></EAN>
@@ -2663,7 +2619,7 @@
 	<regularPrice>108.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075027895]]></EAN>
@@ -4011,7 +3967,7 @@
 	<regularPrice>98.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029721]]></EAN>
@@ -5122,7 +5078,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>19</quantity>
+	<quantity>18</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -5168,7 +5124,7 @@
 	<regularPrice>284.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209225]]></EAN>
@@ -5441,7 +5397,7 @@
 	<price>49.46</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>19</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[ANBIGUO]]></brand>
 	<EAN><![CDATA[8435565937775]]></EAN>
@@ -5846,7 +5802,7 @@
 	<price>71.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[SNAIL VIBE]]></brand>
 	<EAN><![CDATA[8720615766178]]></EAN>
@@ -6038,7 +5994,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>41</quantity>
+	<quantity>40</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460633314]]></EAN>
@@ -6292,7 +6248,7 @@
 	<price>31.49</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala]]></fileUnder>
 	<brand><![CDATA[ROCKS-OFF]]></brand>
 	<productCode><![CDATA[D-245854]]></productCode>
@@ -6518,7 +6474,7 @@
 	<price>6.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>28</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS AQUA & SILK]]></brand>
 	<EAN><![CDATA[4035223331026]]></EAN>
@@ -7401,7 +7357,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>19</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542688]]></EAN>
@@ -7445,7 +7401,7 @@
 	<price>8.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>30</quantity>
+	<quantity>23</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542671]]></EAN>
@@ -7490,7 +7446,7 @@
 	<price>7.19</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[INTIMICHIC]]></brand>
 	<EAN><![CDATA[8425402155493]]></EAN>
@@ -7754,7 +7710,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>22</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[STIMUL8]]></brand>
 	<EAN><![CDATA[8713221346216]]></EAN>
@@ -7888,7 +7844,7 @@
 	<price>8.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[ADRIEN LASTIC]]></brand>
 	<EAN><![CDATA[8433345610016]]></EAN>
