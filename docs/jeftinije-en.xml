@@ -501,7 +501,7 @@
 	<price>12.59</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>8</quantity>
+	<quantity>7</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[ID GLIDE]]></brand>
 	<productCode><![CDATA[D-201405]]></productCode>
@@ -525,6 +525,50 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-201405]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[Kategorija]]></name>
+			<values>
+				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
+			</values>
+		</attribute>
+	</attributes>
+</Item>
+<Item>
+	<ID><![CDATA[52643082305873]]></ID>
+	<name><![CDATA[EROS Masturbation Creme 100 Ml]]></name>
+	<description><![CDATA[It's time for self-love with Eros masturbator cream. A cream specially developed for masturbation with a soft and spongy texture for unique masturbation sessions. In addition, it can also be used as a lubricant. Hybrid cream. Silicone and water-based cream. Specially designed for masturbation. Can be used as a lubricant. 100ml]]></description>
+	<link><![CDATA[https://www.luvmechanics.com/products/eros-masturbation-creme-100-ml?variant=52643082305873]]></link>
+	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/masturbation-creme-100-ml-6907322.jpg?v=1775073077]]></mainImage>
+	<price>10.76</price>
+	<curCode>EUR</curCode>
+	<stock>preorder</stock>
+	<quantity>16</quantity>
+	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
+	<brand><![CDATA[EROS]]></brand>
+	<EAN><![CDATA[4035223770832]]></EAN>
+	<productCode><![CDATA[D-221678]]></productCode>
+	<condition>new</condition>
+	<deliveryCost>6.90</deliveryCost>
+	<deliveryTimeMin>4</deliveryTimeMin>
+	<deliveryTimeMax>8</deliveryTimeMax>
+	<groupId></groupId>
+	<attributes>
+		<gender><![CDATA[]]></gender>
+		<color><![CDATA[]]></color>
+		<size><![CDATA[]]></size>
+		<ageGroup>adult</ageGroup>
+		<attribute>
+			<name><![CDATA[Brand]]></name>
+			<values>
+				<value><![CDATA[EROS]]></value>
+			</values>
+		</attribute>
+		<attribute>
+			<name><![CDATA[SKU]]></name>
+			<values>
+				<value><![CDATA[D-221678]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -822,7 +866,7 @@
 	<price>197.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460632294]]></EAN>
@@ -873,7 +917,7 @@
 	<price>188.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>11</quantity>
+	<quantity>12</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460611121]]></EAN>
@@ -1589,7 +1633,7 @@
 	<price>62.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>12</quantity>
+	<quantity>10</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[PRETTY LOVE]]></brand>
 	<EAN><![CDATA[6959532336979]]></EAN>
@@ -3503,7 +3547,7 @@
 	<price>107.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>6</quantity>
+	<quantity>5</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350167260551]]></EAN>
@@ -3759,7 +3803,7 @@
 	<price>431.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>7</quantity>
+	<quantity>6</quantity>
 	<fileUnder><![CDATA[Adult Toys]]></fileUnder>
 	<brand><![CDATA[ELECTRASTIM]]></brand>
 	<EAN><![CDATA[0609224032745]]></EAN>
@@ -3915,7 +3959,7 @@
 	<regularPrice>98.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029707]]></EAN>
@@ -4331,7 +4375,7 @@
 	<regularPrice>148.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>9</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[LELO]]></brand>
 	<EAN><![CDATA[7350075029745]]></EAN>
@@ -5078,7 +5122,7 @@
 	<price>26.99</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>18</quantity>
+	<quantity>17</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[ROMP]]></brand>
 	<EAN><![CDATA[4251460601320]]></EAN>
@@ -5124,7 +5168,7 @@
 	<regularPrice>284.99</regularPrice>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>4</quantity>
+	<quantity>3</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Erekcijske pumpe]]></fileUnder>
 	<brand><![CDATA[BATHMATE]]></brand>
 	<EAN><![CDATA[5060140209225]]></EAN>
@@ -5994,7 +6038,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>40</quantity>
+	<quantity>38</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460633314]]></EAN>
@@ -6045,7 +6089,7 @@
 	<price>62.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>38</quantity>
+	<quantity>21</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WOMANIZER]]></brand>
 	<EAN><![CDATA[4251460636889]]></EAN>
@@ -7004,7 +7048,7 @@
 	<price>11.69</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>5</quantity>
+	<quantity>4</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[PJUR]]></brand>
 	<productCode><![CDATA[D-241697]]></productCode>
@@ -7401,7 +7445,7 @@
 	<price>8.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>23</quantity>
+	<quantity>21</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[COBECO - CBL]]></brand>
 	<EAN><![CDATA[8718546542671]]></EAN>
@@ -7426,51 +7470,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-196496]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267639300433]]></ID>
-	<name><![CDATA[INTIMICHIC Disinfectant Cleaner 150 Ml]]></name>
-	<description><![CDATA[It is a hygienic disinfectant spray, to produce a deep cleaning effect on erotic toys of all shapes and surfaces. Compared to other disinfectants on the market Intimichic Toy Cleaner has been specially designed with specific ingredients for cleaning erotic material. Its compound applied to toys does not allow them to generate fungi, bacteria or viruses, thus guaranteeing the disinfection and cleaning of the device. It has a fresh and clean aroma and thanks to its powerful spray it allows you to clean the most remote spaces of toys. Use. Depending on the size of the toy, 5 or 6 pumps of spray all over its surface are enough, let it act for a couple of minutes and then rinse with water and dry it well. Characteristics. It is compatible with latex, silicone and gelatin. Antibacterial, fungi and germs. It is colorless. Fresh scent. Essential for all your toys. 150ml spray]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/intimichic-disinfectant-cleaner-150-ml?variant=54267639300433]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_81428_7850c51179d3dd3f2fde40faf9e8aa0a_1.png?v=1783543798]]></mainImage>
-	<moreImages><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_81429_0dbc9b2aa7ae61ce158d693a7a531894_1.png?v=1783543798]]></moreImages>
-	<price>7.19</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>6</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[INTIMICHIC]]></brand>
-	<EAN><![CDATA[8425402155493]]></EAN>
-	<productCode><![CDATA[D-213069]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[INTIMICHIC]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-213069]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -7535,7 +7534,7 @@
 	<price>6.26</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>21</quantity>
+	<quantity>50</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS CLASSIC LINE]]></brand>
 	<EAN><![CDATA[4035223660508]]></EAN>
@@ -7579,7 +7578,7 @@
 	<price>8.06</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>20</quantity>
+	<quantity>19</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
 	<brand><![CDATA[EROS]]></brand>
 	<EAN><![CDATA[4035223661000]]></EAN>
@@ -7825,50 +7824,6 @@
 			<name><![CDATA[SKU]]></name>
 			<values>
 				<value><![CDATA[D-245291]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[Kategorija]]></name>
-			<values>
-				<value><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></value>
-			</values>
-		</attribute>
-	</attributes>
-</Item>
-<Item>
-	<ID><![CDATA[54267661353297]]></ID>
-	<name><![CDATA[ADRIEN LASTIC Toy Cleaner Antibacterial 150 Ml]]></name>
-	<description><![CDATA[DISCOVER TOY CLEANER. It is very important to keep your sex toys clean and free of bacteria if you want them to work as long as they are supposed to. Well, good sex toy hygiene is as important for you as it is for the toy. By keeping the sex toy clean you can avoid diseases, and you also prevent the toy from deteriorating prematurely. HOW TO USE IT?. To be as efficient as possible when cleaning your sex toys, at Adrien Lastic we recommend using warm water and our Toy Cleaner. It is as simple as applying the amount of Toy Cleaner that you think is necessary to the toy and with a little warm water rub the toy with your hands. Once you see that the smell of the The toy is nice and has no stains, it means it is clean. completely clean, so that rinse and let dry. It will be ready to store or… For a second round!. FEATURES. Amount of Toy Cleaner in the bottle: 150 ml. Store in a cool, dry place, away from sunlight. Do not ingest. Keep out of reach of children. Avoid contact with eyes or wounds. Dimensions : Length 13.8 cm // Diameter 5.1 cm. CONTENTS IN THE BOX. Toy Cleaner 150ml]]></description>
-	<link><![CDATA[https://www.luvmechanics.com/products/adrien-lastic-toy-cleaner-antibacterial-150-ml?variant=54267661353297]]></link>
-	<mainImage><![CDATA[https://cdn.shopify.com/s/files/1/0938/7478/2545/files/img_158702_b405880f9b18643c25c5f45d12e4140c_1.jpg?v=1783544695]]></mainImage>
-	<price>8.99</price>
-	<curCode>EUR</curCode>
-	<stock>preorder</stock>
-	<quantity>3</quantity>
-	<fileUnder><![CDATA[Erotska pomagala > Ostala erotska pomagala i pribor]]></fileUnder>
-	<brand><![CDATA[ADRIEN LASTIC]]></brand>
-	<EAN><![CDATA[8433345610016]]></EAN>
-	<productCode><![CDATA[D-237076]]></productCode>
-	<condition>new</condition>
-	<deliveryCost>6.90</deliveryCost>
-	<deliveryTimeMin>4</deliveryTimeMin>
-	<deliveryTimeMax>8</deliveryTimeMax>
-	<groupId></groupId>
-	<attributes>
-		<gender><![CDATA[]]></gender>
-		<color><![CDATA[]]></color>
-		<size><![CDATA[]]></size>
-		<ageGroup>adult</ageGroup>
-		<attribute>
-			<name><![CDATA[Brand]]></name>
-			<values>
-				<value><![CDATA[ADRIEN LASTIC]]></value>
-			</values>
-		</attribute>
-		<attribute>
-			<name><![CDATA[SKU]]></name>
-			<values>
-				<value><![CDATA[D-237076]]></value>
 			</values>
 		</attribute>
 		<attribute>
@@ -8828,7 +8783,7 @@
 	<price>143.09</price>
 	<curCode>EUR</curCode>
 	<stock>preorder</stock>
-	<quantity>10</quantity>
+	<quantity>8</quantity>
 	<fileUnder><![CDATA[Erotska pomagala > Vibratori]]></fileUnder>
 	<brand><![CDATA[WE-VIBE]]></brand>
 	<EAN><![CDATA[4251460631457]]></EAN>
